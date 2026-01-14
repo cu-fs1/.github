@@ -1,4 +1,4 @@
-## Hi there 👋
+## This contains the map of experiments and the contents linked to it.
 
 <!--
 
