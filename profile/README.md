@@ -1,12 +1,59 @@
-## This contains the map of experiments and the contents linked to it.
+# Course Experiments Guide
 
-<!--
+## Course Materials
 
-**Here are some ideas to get you started:**
+All source materials for the course are available at: [github.com/cu-fs1](https://github.com/cu-fs1)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Assignment Structure & Grading
+
+Each experiment consists of three parts with different difficulty levels:
+
+### Part A - Easy (In-Class)
+- **Total Points**: 15
+  - Code: 12 points
+  - Viva: 3 points
+- Completed during class time
+
+### Part B - Medium (Take-Home)
+- **Total Points**: 9
+  - Code: 5 points
+  - Viva: 4 points
+- Take-home assignment with deadline
+
+### Part C - Hard (Demonstration)
+- **Total Points**: 3
+  - Viva: 3 points
+- Demonstrated by instructor
+
+**Total Viva Points**: 10 (3 + 4 + 3)
+
+## Submission Requirements
+
+### For Part B (Medium) Assignments
+
+You must submit:
+
+1. **Deployment Link**: Host your code on Vercel or Netlify
+2. **README.md File**: Equivalent to what you write in your practical file
+   - Include code snippets
+   - Add explanations
+   - Document your implementation
+
+### Code Availability
+
+- **Part A & Part B**: Code will remain private until the deadline
+- **README.md files**: Available for reference
+
+## Example: Experiment Structure
+
+Let's say **Experiment 1** covers the following topics:
+
+- **Flexbox**
+  - README.md file with code snippets and explanations
+  - CodeSandbox/Vercel deployment link
+  - Source code
+- **Grids**
+- **Positioning**
+- **JavaScript**
+
+You will find that mapping below
