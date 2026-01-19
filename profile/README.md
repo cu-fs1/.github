@@ -82,9 +82,33 @@ Each experiment consists of **three parts** with different difficulty levels:
 
 ### 🏠 For Part B (Medium) Assignments
 
-You must submit the following:
+You must submit the following inside a Google Form:
 
-#### 1️⃣ Deployment Link
+#### 1️⃣ Name
+
+Your full name as registered in the course.
+
+**Example:** `Navkaran Singh`
+
+---
+
+#### 2️⃣ UID (University ID)
+
+Your university identification number.
+
+**Example:** `24BDA70021`
+
+---
+
+#### 3️⃣ GitHub Repository Link
+
+Link to your GitHub repository containing the experiment code.
+
+**Example:** `https://github.com/navkaran/exp-1a`
+
+---
+
+#### 4️⃣ Deployment Link
 
 Host your code on **Vercel** or **Netlify** using the naming convention:
 
@@ -98,7 +122,66 @@ Host your code on **Vercel** or **Netlify** using the naming convention:
 - **Name**: `Navkaran Singh`
 - **Result**: `24bda70021-1a-navkaran-singh.vercel.app`
 
-#### 2️⃣ README.md File
+---
+
+#### 5️⃣ How to Setup Vercel with GitHub
+
+Follow these steps to deploy your project using Vercel with GitHub integration:
+
+##### **Step 1: Create a GitHub Repository**
+
+1. Go to [GitHub](https://github.com) and sign in
+2. Click the **"+"** icon in the top-right corner
+3. Select **"New repository"**
+4. Name your repository (e.g., `24bda70021-1b-navkaran-singh`)
+5. Leave the default settings (Public)
+6. Click on Add README button
+7. Click **"Create repository"**
+
+
+##### **Step 2: Sign Up for Vercel**
+
+1. Go to [Vercel](https://vercel.com)
+2. Click **"Sign Up"**
+3. Choose **"Continue with GitHub"**
+4. Authorize Vercel to access your GitHub account
+
+##### **Step 3: Import Your GitHub Repository**
+
+1. On the Vercel dashboard, click **"Add New..."** → **"Project"**
+2. You'll see a list of your GitHub repositories
+3. Find your experiment repository and click **"Import"**
+
+##### **Step 4: Configure Your Project**
+
+1. **Project Name**: Change it to follow the naming convention:
+   ```
+   {uid}-{experiment-part}-{name}
+   ```
+   Example: `24bda70021-1b-navkaran-singh`
+
+2. Click **"Deploy"**
+
+##### **Step 5: Wait for Deployment**
+
+- Vercel will build and deploy your project
+- This usually takes 30-60 seconds
+- Once complete, you'll see a success message with your live URL
+
+##### **Step 6: Copy Your Deployment Link**
+
+Your project will be live at:
+```
+https://24bda70021-1b-navkaran-singh.vercel.app
+```
+
+Copy this link and submit it in the Google Form!
+
+> **Automatic Deployments**: Every time you push changes to your GitHub repository, Vercel will automatically redeploy your project with the updates!
+
+---
+
+#### 6️⃣ README.md File
 
 Create a comprehensive README equivalent to your practical file:
 
