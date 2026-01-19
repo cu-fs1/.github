@@ -20,13 +20,7 @@
 
 ## 📖 Course Materials
 
-All source materials for the course are available at:
-
-<div align="center">
-
-### [🔗 github.com/cu-fs1](https://github.com/cu-fs1)
-
-</div>
+All source materials for the course are available at: [github.com/cu-fs1](https://github.com/cu-fs1)
 
 ---
 
@@ -79,6 +73,12 @@ Each experiment consists of **three parts** with different difficulty levels:
 ---
 
 ## 📤 Submission Requirements
+
+<div align="center">
+  <a href="https://vimeo.com/1156013385?share=copy&fl=sv&fe=ci">
+    <img src="https://img.shields.io/badge/Watch%20Submission%20Demo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Watch Submission Demo" />
+  </a>
+</div>
 
 ### 🏠 For Part B (Medium) Assignments
 
@@ -351,8 +351,6 @@ Explore these repositories for reference materials:
 ---
 
 <div align="center">
-
-**Made with ❤️ for Full Stack Development Students**
 
 [⬆ Back to Top](#-course-experiments-guide)
 
