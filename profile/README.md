@@ -11,8 +11,8 @@
 
 - [📖 Course Materials](#-course-materials)
 - [🎯 Assignment Structure & Grading](#-assignment-structure--grading)
+- [🎥 Submission Demo Video](#-submission-demo-video)
 - [📤 Submission Requirements](#-submission-requirements)
-  - [🎥 Submission Demo Video](#-submission-demo-video)
 - [🧪 Experiment Guides](#-experiment-guides)
   - [Experiment 1](#-experiment-1)
   - [Experiment 2](#-experiment-2)
@@ -68,20 +68,20 @@ Each experiment consists of **three parts** with different difficulty levels:
 </tbody>
 </table>
 
-> [!NOTE]
-> **Total Viva Points**: 10 (3 + 4 + 3)
+>**Total Viva Points**: 10 (3 + 4 + 3)
 
 ---
 
-## 📤 Submission Requirements
-
-### 🎥 Submission Demo Video
+## 🎥 Submission Demo Video
 
 <div align="center">
   <a href="https://vimeo.com/1156013385?share=copy&fl=sv&fe=ci">
     <img src="https://img.shields.io/badge/Watch%20Submission%20Demo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Watch Submission Demo" />
   </a>
 </div>
+
+## 📤 Submission Requirements
+
 
 ### 🏠 For Part B (Medium) Assignments
 
