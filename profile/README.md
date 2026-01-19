@@ -12,6 +12,7 @@
 - [📖 Course Materials](#-course-materials)
 - [🎯 Assignment Structure & Grading](#-assignment-structure--grading)
 - [📤 Submission Requirements](#-submission-requirements)
+  - [🎥 Submission Demo Video](#-submission-demo-video)
 - [🧪 Experiment Guides](#-experiment-guides)
   - [Experiment 1](#-experiment-1)
   - [Experiment 2](#-experiment-2)
@@ -73,6 +74,8 @@ Each experiment consists of **three parts** with different difficulty levels:
 ---
 
 ## 📤 Submission Requirements
+
+### 🎥 Submission Demo Video
 
 <div align="center">
   <a href="https://vimeo.com/1156013385?share=copy&fl=sv&fe=ci">
