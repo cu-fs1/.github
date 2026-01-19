@@ -33,7 +33,7 @@ Each experiment consists of three parts with different difficulty levels:
 
 You must submit:
 
-1. **Deployment Link**: Host your code on Vercel or Netlify
+1. **Deployment Link**: Host your code on Vercel or Netlify. {uid}-1a-name. If your uid is 24BDA70021, experiment number is 1b, and your name is Navkaran Singh. The link will be 24BDA70021-1a-Navkaran-Singh.vercel.app
 2. **README.md File**: Equivalent to what you write in your practical file
    - Include code snippets
    - Add explanations
