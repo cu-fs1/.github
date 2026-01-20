@@ -24,7 +24,7 @@
 
 ## 📖 Course Materials
 
-All source materials for the course are available at: <a href="https://github.com/orgs/cu-fs1/repositories" target="_blank" rel="noopener noreferrer">github.com/orgs/cu-fs1/repositories</a>
+All source materials for the course are available at: <a href="https://github.com/orgs/cu-fs1/repositories" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">github.com/orgs/cu-fs1/repositories</a>
 
 ---
 
@@ -35,7 +35,7 @@ All source materials for the course are available at: <a href="https://github.co
 Track your attendance and participation using the spreadsheet below:
 
 <div align="center">
-  <a href="https://docs.google.com/spreadsheets/d/1rIUNBFJ8kpd5eLJNa9FCkV1yy-d52vtS9JjHNOlQnOw/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <a href="https://docs.google.com/spreadsheets/d/1rIUNBFJ8kpd5eLJNa9FCkV1yy-d52vtS9JjHNOlQnOw/edit?usp=sharing" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">
     <img src="https://img.shields.io/badge/View%20Attendance%20Spreadsheet-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="View Attendance Spreadsheet" />
   </a>
 </div>
@@ -98,7 +98,7 @@ Each experiment consists of **three parts** with different difficulty levels:
 Please submit your project details using the following link:
 
 <div align="center">
-  <a href="https://forms.gle/jyG6rjwrGiikiCQv6" target="_blank" rel="noopener noreferrer">
+  <a href="https://forms.gle/jyG6rjwrGiikiCQv6" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">
     <img src="https://img.shields.io/badge/Submit%20to%20Google%20Form-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Submit to Google Form" />
   </a>
 </div>
@@ -108,7 +108,7 @@ Please submit your project details using the following link:
 ### 🎥 Demo Video
 
 <div align="center">
-  <a href="https://vimeo.com/1156013385?share=copy&fl=sv&fe=ci" target="_blank" rel="noopener noreferrer">
+  <a href="https://vimeo.com/1156013385?share=copy&fl=sv&fe=ci" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">
     <img src="https://img.shields.io/badge/Watch%20Submission%20Demo-1bB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Watch Submission Demo" />
   </a>
 </div>
@@ -168,7 +168,7 @@ Follow these steps to deploy your project using Vercel with GitHub integration:
 
 ##### **Step 1: Create a GitHub Repository**
 
-1. Go to <a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a> and sign in
+1. Go to <a href="https://github.com" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">GitHub</a> and sign in
 2. Click the **"+"** icon in the top-right corner
 3. Select **"New repository"**
 4. Name your repository (e.g., `24bda70021-1b-navkaran-singh`)
@@ -179,7 +179,7 @@ Follow these steps to deploy your project using Vercel with GitHub integration:
 
 ##### **Step 2: Sign Up for Vercel**
 
-1. Go to <a href="https://vercel.com" target="_blank" rel="noopener noreferrer">Vercel</a>
+1. Go to <a href="https://vercel.com" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">Vercel</a>
 2. Click **"Sign Up"**
 3. Choose **"Continue with GitHub"**
 4. Authorize Vercel to access your GitHub account
@@ -266,7 +266,7 @@ Create a comprehensive README equivalent to your practical file:
 ### 🛠️ Installation and Setup
 
 #### Step 1: Install Git
-Download and install <a href="https://git-scm.com/downloads" target="_blank" rel="noopener noreferrer">Git</a> for version control
+Download and install <a href="https://git-scm.com/downloads" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">Git</a> for version control
 
 **Why Git?**
 - Track changes in your code
@@ -274,7 +274,7 @@ Download and install <a href="https://git-scm.com/downloads" target="_blank" rel
 - Push your projects to GitHub
 
 #### Step 2: Install VSCode
-Download and install <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">Visual Studio Code</a>
+Download and install <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">Visual Studio Code</a>
 
 #### Step 3: Install Five Server Extension
 Install the **Five Server** extension in VSCode (an improved version of Live Server)
@@ -292,9 +292,9 @@ Explore these repositories for reference materials:
 
 | Topic | Repository |
 |-------|-----------|
-| 🔲 **Flexbox** | <a href="https://github.com/cu-fs1/flexbox" target="_blank" rel="noopener noreferrer">github.com/cu-fs1/flexbox</a> |
-| 📍 **Positioning** | <a href="https://github.com/cu-fs1/positioning" target="_blank" rel="noopener noreferrer">github.com/cu-fs1/positioning</a> |
-| 🎯 **Grid** | <a href="https://github.com/cu-fs1/grid" target="_blank" rel="noopener noreferrer">github.com/cu-fs1/grid</a> |
+| 🔲 **Flexbox** | <a href="https://github.com/cu-fs1/flexbox" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">github.com/cu-fs1/flexbox</a> |
+| 📍 **Positioning** | <a href="https://github.com/cu-fs1/positioning" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">github.com/cu-fs1/positioning</a> |
+| 🎯 **Grid** | <a href="https://github.com/cu-fs1/grid" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">github.com/cu-fs1/grid</a> |
 
 ---
 
@@ -307,7 +307,7 @@ Explore these repositories for reference materials:
 
 #### Step 1: Install Node.js
 
-Download and install **Node.js** from the <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">official website</a>
+Download and install **Node.js** from the <a href="https://nodejs.org/en/download" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">official website</a>
 
 > [!IMPORTANT] Installing Node.js also installs **npm** (Node Package Manager)
 
@@ -394,9 +394,9 @@ Explore these repositories for reference materials:
 
 | Topic | Repository |
 |-------|-----------|
-| 🔲 **Flexbox** | <a href="https://github.com/cu-fs1/flexbox" target="_blank" rel="noopener noreferrer">github.com/cu-fs1/flexbox</a> |
-| 📍 **Positioning** | <a href="https://github.com/cu-fs1/positioning" target="_blank" rel="noopener noreferrer">github.com/cu-fs1/positioning</a> |
-| 🎯 **Grid** | <a href="https://github.com/cu-fs1/grid" target="_blank" rel="noopener noreferrer">github.com/cu-fs1/grid</a> |
+| 🔲 **Flexbox** | <a href="https://github.com/cu-fs1/flexbox" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">github.com/cu-fs1/flexbox</a> |
+| 📍 **Positioning** | <a href="https://github.com/cu-fs1/positioning" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">github.com/cu-fs1/positioning</a> |
+| 🎯 **Grid** | <a href="https://github.com/cu-fs1/grid" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">github.com/cu-fs1/grid</a> |
 
 ---
 
