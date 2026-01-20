@@ -241,7 +241,7 @@ Create a comprehensive README equivalent to your practical file:
 
 ## 🧪 Experiment Guides
 
-## 🎨 Experiment 1: HTML & CSS Fundamentals
+## 🎨 Experiment 1
 
 ### 🛠️ Installation and Setup
 
@@ -270,7 +270,7 @@ Explore these repositories for reference materials:
 
 ---
 
-## ⚛️ Experiment 2: Next.js Setup & Development
+## ⚛️ Experiment 2
 
 ### 🛠️ Installation and Setup
 
