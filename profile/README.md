@@ -40,14 +40,6 @@ Track your attendance and participation using the spreadsheet below:
   </a>
 </div>
 
-<br />
-
-<div align="center">
-  <a href="https://docs.google.com/spreadsheets/d/1rIUNBFJ8kpd5eLJNa9FCkV1yy-d52vtS9JjHNOlQnOw/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/Plus%20Comment-FF5722?style=for-the-badge&logo=google&logoColor=white" alt="Plus Comment" />
-  </a>
-</div>
-
 > [!NOTE] Anyone who was left, please mark your attendance in the comments of the spreadsheet.
 
 ---
