@@ -109,7 +109,7 @@ Please submit your project details using the following link:
 
 <div align="center">
   <a href="https://vimeo.com/1156013385?share=copy&fl=sv&fe=ci">
-    <img src="https://img.shields.io/badge/Watch%20Submission%20Demo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Watch Submission Demo" />
+    <img src="https://img.shields.io/badge/Watch%20Submission%20Demo-1bB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Watch Submission Demo" />
   </a>
 </div>
 
@@ -142,7 +142,7 @@ Your university identification number.
 
 Link to your GitHub repository containing the experiment code.
 
-**Example:** `https://github.com/navkaran/exp-1a`
+**Example:** `https://github.com/navkaran/exp-1b`
 
 ---
 
@@ -156,9 +156,9 @@ Host your code on **Vercel** or **Netlify** using the naming convention:
 
 **Example:**
 - **UID**: `24BDA70021`
-- **Experiment**: `1a`
+- **Experiment**: `1b`
 - **Name**: `Navkaran Singh`
-- **Result**: `24bda70021-1a-navkaran-singh.vercel.app`
+- **Result**: `24bda70021-1b-navkaran-singh.vercel.app`
 
 ---
 
