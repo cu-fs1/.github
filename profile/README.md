@@ -260,12 +260,23 @@ Create a comprehensive README equivalent to your practical file:
 
 ## 🎨 Experiment 1
 
+> [!IMPORTANT]
+> **Deadline:** 27 January 2026
+
 ### 🛠️ Installation and Setup
 
-#### Step 1: Install VSCode
+#### Step 1: Install Git
+Download and install [Git](https://git-scm.com/downloads) for version control
+
+**Why Git?**
+- Track changes in your code
+- Collaborate with others
+- Push your projects to GitHub
+
+#### Step 2: Install VSCode
 Download and install [Visual Studio Code](https://code.visualstudio.com/)
 
-#### Step 2: Install Five Server Extension
+#### Step 3: Install Five Server Extension
 Install the **Five Server** extension in VSCode (an improved version of Live Server)
 
 1. Open VSCode
@@ -288,6 +299,9 @@ Explore these repositories for reference materials:
 ---
 
 ## ⚛️ Experiment 2
+
+> [!IMPORTANT]
+> **Deadline:** 5 February 2026
 
 ### 🛠️ Installation and Setup
 
