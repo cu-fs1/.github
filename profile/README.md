@@ -117,7 +117,7 @@ Please submit your project details using the following link:
 
 ---
 
-### � Requirements
+### 📋 Requirements
 
 
 ### 🏠 For Part B (Medium) Assignments
