@@ -11,8 +11,10 @@
 
 - [📖 Course Materials](#-course-materials)
 - [🎯 Assignment Structure & Grading](#-assignment-structure--grading)
-- [🎥 Submission Demo Video](#-submission-demo-video)
-- [📤 Submission Requirements](#-submission-requirements)
+- [📤 Submission](#-submission)
+  - [📝 Google Form](#-google-form)
+  - [🎥 Demo Video](#-demo-video)
+  - [📋 Requirements](#-requirements)
 - [🧪 Experiment Guides](#-experiment-guides)
   - [Experiment 1](#-experiment-1)
   - [Experiment 2](#-experiment-2)
@@ -72,7 +74,21 @@ Each experiment consists of **three parts** with different difficulty levels:
 
 ---
 
-## 🎥 Submission Demo Video
+## 📤 Submission
+
+### 📝 Google Form
+
+Please submit your project details using the following link:
+
+<div align="center">
+  <a href="https://forms.gle/jyG6rjwrGiikiCQv6">
+    <img src="https://img.shields.io/badge/Submit%20to%20Google%20Form-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Submit to Google Form" />
+  </a>
+</div>
+
+---
+
+### 🎥 Demo Video
 
 <div align="center">
   <a href="https://vimeo.com/1156013385?share=copy&fl=sv&fe=ci">
@@ -80,7 +96,9 @@ Each experiment consists of **three parts** with different difficulty levels:
   </a>
 </div>
 
-## 📤 Submission Requirements
+---
+
+### � Requirements
 
 
 ### 🏠 For Part B (Medium) Assignments
