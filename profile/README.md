@@ -40,7 +40,8 @@ Track your attendance and participation using the spreadsheet below:
   </a>
 </div>
 
-> [!NOTE] Anyone who was left, please mark your attendance in the comments of the spreadsheet.
+> [!NOTE]
+> Anyone who was left, please mark your attendance in the comments of the spreadsheet.
 
 ---
 
@@ -87,7 +88,8 @@ Each experiment consists of **three parts** with different difficulty levels:
 </tbody>
 </table>
 
-> [!NOTE] **Total Viva Points**: 10 (3 + 4 + 3)
+> [!NOTE]
+> **Total Viva Points**: 10 (3 + 4 + 3)
 
 ---
 
@@ -215,7 +217,8 @@ https://24bda70021-1b-navkaran-singh.vercel.app
 
 Copy this link and submit it in the Google Form!
 
-> [!TIP] **Automatic Deployments**: Every time you push changes to your GitHub repository, Vercel will automatically redeploy your project with the updates!
+> [!TIP]
+> **Automatic Deployments**: Every time you push changes to your GitHub repository, Vercel will automatically redeploy your project with the updates!
 
 ---
 
@@ -336,7 +339,8 @@ npm i -g pnpm
 
 #### Step 3: Fix Execution Policy (Windows Only)
 
-> [!WARNING] If you encounter an execution policy error on Windows, follow these steps:
+> [!WARNING]
+> If you encounter an execution policy error on Windows, follow these steps:
 
 Open **PowerShell as current user** and run:
 
