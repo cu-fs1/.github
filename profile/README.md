@@ -24,7 +24,7 @@
 
 ## 📖 Course Materials
 
-All source materials for the course are available at: <a href="https://github.com/orgs/cu-fs1/repositories" target="_blank" rel="noopener noreferrer">github.com/cu-fs1/repositories</a>
+All source materials for the course are available at: <a href="https://github.com/orgs/cu-fs1/repositories" target="_blank" rel="noopener noreferrer">github.com/orgs/cu-fs1/repositories</a>
 
 ---
 
