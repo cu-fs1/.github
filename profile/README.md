@@ -2,7 +2,7 @@
 
 # 📚 Course Experiments Guide
 
-*A comprehensive guide for Full Stack Development course experiments and assignments*
+*A comprehensive guide for Full Stack Development course experiments, assignments, and attendance*
 </div>
 
 ---
@@ -10,6 +10,7 @@
 ## 📑 Table of Contents
 
 - [📖 Course Materials](#-course-materials)
+- [📅 Attendance](#-attendance)
 - [🎯 Assignment Structure & Grading](#-assignment-structure--grading)
 - [📤 Submission](#-submission)
   - [📝 Google Form](#-google-form)
@@ -24,6 +25,30 @@
 ## 📖 Course Materials
 
 All source materials for the course are available at: [github.com/cu-fs1](https://github.com/cu-fs1)
+
+---
+
+## 📅 Attendance
+
+### 📝 Attendance Tracking
+
+Track your attendance and participation using the spreadsheet below:
+
+<div align="center">
+  <a href="https://docs.google.com/spreadsheets/d/1rIUNBFJ8kpd5eLJNa9FCkV1yy-d52vtS9JjHNOlQnOw/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20Attendance%20Spreadsheet-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="View Attendance Spreadsheet" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://docs.google.com/spreadsheets/d/1rIUNBFJ8kpd5eLJNa9FCkV1yy-d52vtS9JjHNOlQnOw/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/Plus%20Comment-FF5722?style=for-the-badge&logo=google&logoColor=white" alt="Plus Comment" />
+  </a>
+</div>
+
+> [!NOTE] Anyone who was left, please mark your attendance in the comments of the spreadsheet.
 
 ---
 
@@ -70,7 +95,7 @@ Each experiment consists of **three parts** with different difficulty levels:
 </tbody>
 </table>
 
->**Total Viva Points**: 10 (3 + 4 + 3)
+> [!NOTE] **Total Viva Points**: 10 (3 + 4 + 3)
 
 ---
 
@@ -198,7 +223,7 @@ https://24bda70021-1b-navkaran-singh.vercel.app
 
 Copy this link and submit it in the Google Form!
 
-> **Automatic Deployments**: Every time you push changes to your GitHub repository, Vercel will automatically redeploy your project with the updates!
+> [!TIP] **Automatic Deployments**: Every time you push changes to your GitHub repository, Vercel will automatically redeploy your project with the updates!
 
 ---
 
@@ -278,8 +303,7 @@ Explore these repositories for reference materials:
 
 Download and install **Node.js** from the [official website](https://nodejs.org/)
 
-> [!IMPORTANT]
-> Installing Node.js also installs **npm** (Node Package Manager)
+> [!IMPORTANT] Installing Node.js also installs **npm** (Node Package Manager)
 
 **What you get:**
 - **Node.js**: JavaScript runtime built on Chrome's V8 engine, used to run JavaScript outside the browser
@@ -305,8 +329,7 @@ npm i -g pnpm
 
 #### Step 3: Fix Execution Policy (Windows Only)
 
-> [!WARNING]
-> If you encounter an execution policy error on Windows, follow these steps:
+> [!WARNING] If you encounter an execution policy error on Windows, follow these steps:
 
 Open **PowerShell as current user** and run:
 
