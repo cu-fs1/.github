@@ -7,7 +7,7 @@
 
 ---
 
-## � Contact Information
+## 📞 Contact Information
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 ---
 
-## �📑 Table of Contents
+## 📑 Table of Contents
 
 - [📖 Course Materials](#-course-materials)
 - [📅 Attendance](#-attendance)
