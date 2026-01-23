@@ -370,23 +370,30 @@ Set-ExecutionPolicy Unrestricted -Scope CurrentUser
 
 ### 🚀 Project Setup
 
+> [!IMPORTANT]
+> **For each project, you must create the app first before working on it.**
+
 #### Step 1: Create Project Folder
 
-Create a folder named `exp-2a` for this experiment
+Create a folder following the naming convention:
 
 ```bash
-mkdir exp-2a
+mkdir {uid}-2-{name}
 ```
+
+**Naming Convention:** Use the pattern `{uid}-2-{name}` as the folder name
+
+**Example:**
+- **UID**: `24BDA70021`
+- **Experiment**: `2`
+- **Name**: `navkaran-singh`
+- **Result**: `24bda70021-2-navkaran-singh`
 
 ---
 
 #### Step 2: Open in VSCode
 
-Open the `exp-2a` folder in VSCode so that all commands run in this project directory
-
-```bash
-code exp-2a
-```
+Open the folder in VSCode so that all commands run in this project directory
 
 ---
 
@@ -402,7 +409,7 @@ pnpm create next-app@latest .
 - `pnpm` — The pnpm CLI, your package manager
 - `create` — Tells pnpm to run a project scaffolding tool (a "create" script)
 - `next-app@latest` — Uses the *create-next-app* initializer at its latest version to generate a Next.js app
-- `.` — Dot means "current directory", so the app is created inside `exp-2a` instead of a new subfolder
+- `.` — Dot means "current directory", so the app is created inside your folder (e.g., `24bda70021-2-navkaran-singh`) instead of a new subfolder
 
 ---
 
