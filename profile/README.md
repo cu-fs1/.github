@@ -379,6 +379,8 @@ Create a folder following the naming convention:
 
 ```bash
 mkdir {uid}-2-{name}
+# Example:
+mkdir 24bda70021-2-navkaran-singh
 ```
 
 **Naming Convention:** Use the pattern `{uid}-2-{name}` as the folder name
