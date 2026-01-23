@@ -156,7 +156,7 @@ Your university identification number.
 
 Link to your GitHub repository containing the experiment code.
 
-**Example:** `https://github.com/navkaran/exp-1b`
+**Example:** `https://github.com/navkaran/24bda70021-1b-navkaran-singh`
 
 ---
 
