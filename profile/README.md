@@ -378,18 +378,18 @@ Set-ExecutionPolicy Unrestricted -Scope CurrentUser
 Create a folder following the naming convention:
 
 ```bash
-mkdir {uid}-2-{name}
+mkdir {uid}-2b-{name}
 # Example:
-mkdir 24bda70021-2-navkaran-singh
+mkdir 24bda70021-2b-navkaran-singh
 ```
 
-**Naming Convention:** Use the pattern `{uid}-2-{name}` as the folder name
+**Naming Convention:** Use the pattern `{uid}-2b-{name}` as the folder name
 
 **Example:**
 - **UID**: `24BDA70021`
-- **Experiment**: `2`
+- **Experiment**: `2b`
 - **Name**: `navkaran-singh`
-- **Result**: `24bda70021-2-navkaran-singh`
+- **Result**: `24bda70021-2b-navkaran-singh`
 
 ---
 
@@ -411,7 +411,7 @@ pnpm create next-app@latest .
 - `pnpm` — The pnpm CLI, your package manager
 - `create` — Tells pnpm to run a project scaffolding tool (a "create" script)
 - `next-app@latest` — Uses the *create-next-app* initializer at its latest version to generate a Next.js app
-- `.` — Dot means "current directory", so the app is created inside your folder (e.g., `24bda70021-2-navkaran-singh`) instead of a new subfolder
+- `.` — Dot means "current directory", so the app is created inside your folder (e.g., `24bda70021-2bnavkaran-singh`) instead of a new subfolder
 
 ---
 
