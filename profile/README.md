@@ -156,7 +156,7 @@ Your university identification number.
 
 Link to your GitHub repository containing the experiment code.
 
-**Example:** `https://github.com/navkaran/24bda70021-1b-navkaran-singh`
+**Example:** `https://github.com/navkaransingh19/24bda70021-1b-navkaran-singh`
 
 ---
 
@@ -165,7 +165,7 @@ Link to your GitHub repository containing the experiment code.
 Host your code on **Vercel** or **Netlify** using the naming convention:
 
 ```
-{uid}-{experiment-part}-{name}.vercel.app
+{uid}-{experiment-part}-{firstName}-{lastName}.vercel.app
 ```
 
 **Example:**
