@@ -168,6 +168,9 @@ Host your code on **Vercel** or **Netlify** using the naming convention:
 {uid}-{experiment-part}-{firstName}-{lastName}.vercel.app
 ```
 
+> [!WARNING]
+> **Use dashes (`-`) not underscores (`_`)** in the naming convention.
+
 **Example:**
 - **UID**: `24BDA70021`
 - **Experiment**: `1b`
@@ -384,6 +387,9 @@ mkdir 24bda70021-2b-navkaran-singh
 ```
 
 **Naming Convention:** Use the pattern `{uid}-2b-{name}` as the folder name
+
+> [!WARNING]
+> **Use dashes (`-`) not underscores (`_`)** in the folder name.
 
 **Example:**
 - **UID**: `24BDA70021`
