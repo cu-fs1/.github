@@ -124,9 +124,9 @@ Please submit your project details using the following link:
 <div align="center">
   <a
     href="https://gumlet.tv/watch/6974eeb2c2fb61ce19db1242/"
-    style="display:inline-flex;align-items:center;gap:10px;padding:12px 18px;background:#ffffff;color:#0b63f3;text-decoration:none;border-radius:12px;font-weight:700;font-family:'Segoe UI',sans-serif;border:1px solid #dbe3f3;box-shadow:0 8px 20px rgba(0,0,0,0.10);"
+    style="display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:12px 18px;background:#ffffff;color:#0b63f3;text-decoration:none;border-radius:12px;font-weight:700;font-family:'Segoe UI',sans-serif;border:1px solid #dbe3f3;box-shadow:0 8px 20px rgba(0,0,0,0.10);"
   >
-    <img src="https://cdn.brandfetch.io/idL7mkcF90/theme/dark/idYW_GMjL5.svg?c=1bxid64Mup7aczewSAYMX&t=1697526981782" alt="Gumlet logo" width="28" height="28" style="display:block;" />
+    <img src="https://cdn.brandfetch.io/idL7mkcF90/theme/dark/idYW_GMjL5.svg?c=1bxid64Mup7aczewSAYMX&t=1697526981782" alt="Gumlet logo" width="28" height="28" style="display:inline;" />
     <span>Watch on Gumlet</span>
   </a>
 </div>
