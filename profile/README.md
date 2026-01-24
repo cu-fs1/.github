@@ -122,9 +122,12 @@ Please submit your project details using the following link:
 ### 🎥 Demo Video
 
 <div align="center">
-  <a href="https://vimeo.com/1156013385?share=copy&fl=sv&fe=ci">
-    <img src="https://img.shields.io/badge/Watch%20Submission%20Demo-1bB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Watch Submission Demo" />
-  </a>
+  <video src="./demo.mp4" controls preload="metadata" width="720">
+    Your browser does not support the video tag.
+  </video>
+  <p>
+    If the player doesn't load, <a href="./demo.mp4">download the demo video</a>.
+  </p>
 </div>
 
 ---
