@@ -122,11 +122,18 @@ Please submit your project details using the following link:
 ### 🎥 Demo Video
 
 <div align="center">
-  <video src="./demo.mp4" controls preload="metadata" width="720">
-    Your browser does not support the video tag.
-  </video>
+  <div style="position:relative;aspect-ratio:16/9;">
+    <iframe
+      loading="lazy"
+      title="Gumlet video player"
+      src="https://play.gumlet.io/embed/6974eeb2c2fb61ce19db1242?background=true&autoplay=true&loop=true&disableControls=false"
+      style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+      referrerpolicy="origin"
+      allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;">
+    </iframe>
+  </div>
   <p>
-    If the player doesn't load, <a href="./demo.mp4">download the demo video</a>.
+    If the player doesn't load, <a href="https://play.gumlet.io/embed/6974eeb2c2fb61ce19db1242">view the demo</a>.
   </p>
 </div>
 
