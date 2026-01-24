@@ -430,6 +430,20 @@ pnpm create next-app@latest .
 
 ---
 
+## 🔧 Experiment 3
+
+> [!IMPORTANT]
+> **Deadline:** 14 February 2026
+
+---
+
+## 🚀 Experiment 4
+
+> [!IMPORTANT]
+> **Deadline:** 20 February 2026
+
+---
+
 <div align="center">
 
 [⬆ Back to Top](#-course-experiments-guide)
