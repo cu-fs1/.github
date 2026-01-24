@@ -121,15 +121,15 @@ Please submit your project details using the following link:
 
 ### 🎥 Demo Video
 
-<div style="position:relative;aspect-ratio:16/9;">
-      <iframe
-            loading="lazy" title="Gumlet video player"
-            src="https://play.gumlet.io/embed/6974eeb2c2fb61ce19db1242?background=false&autoplay=true&loop=false&disableControls=false"
-            style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
-          referrerpolicy="origin"
-          allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;">
-          </iframe>
-    </div>
+<div align="center">
+  <a
+    href="https://gumlet.tv/watch/6974eeb2c2fb61ce19db1242/"
+    style="display:inline-flex;align-items:center;gap:8px;padding:10px 16px;background:#0D6EFD;color:#ffffff;text-decoration:none;border-radius:8px;font-weight:600;font-family:'Segoe UI',sans-serif;box-shadow:0 4px 12px rgba(0,0,0,0.12);"
+  >
+    <img src="https://cdn.brandfetch.io/idL7mkcF90/theme/dark/idYW_GMjL5.svg?c=1bxid64Mup7aczewSAYMX&t=1697526981782" alt="Gumlet logo" width="24" height="24" style="display:block;" />
+    <span>Watch on Gumlet</span>
+  </a>
+</div>
 
 ---
 
