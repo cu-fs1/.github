@@ -279,7 +279,7 @@ Create a comprehensive README equivalent to your practical file:
 ## 🎨 Experiment 1
 
 > [!IMPORTANT]
-> **Deadline:** 27 January 2026
+> **Deadline:** 26 January 2026
 
 ### 🛠️ Installation and Setup
 
@@ -320,7 +320,7 @@ Explore these repositories for reference materials:
 ## ⚛️ Experiment 2
 
 > [!IMPORTANT]
-> **Deadline:** 5 February 2026
+> **Deadline:** 4 February 2026
 
 ### 🛠️ Installation and Setup
 
@@ -433,14 +433,7 @@ pnpm create next-app@latest .
 ## 🔧 Experiment 3
 
 > [!IMPORTANT]
-> **Deadline:** 14 February 2026
-
----
-
-## 🚀 Experiment 4
-
-> [!IMPORTANT]
-> **Deadline:** 20 February 2026
+> **Deadline:** 13 February 2026
 
 ---
 
