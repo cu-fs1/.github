@@ -328,7 +328,7 @@ Explore these repositories for reference materials:
 
 Download and install **Node.js** from the <a href="https://nodejs.org/en/download">official website</a>
 
-> [!IMPORTANT] 
+> [!NOTE] 
 > Installing Node.js also installs **npm** (Node Package Manager)
 
 **What you get:**
@@ -373,7 +373,7 @@ Set-ExecutionPolicy Unrestricted -Scope CurrentUser
 
 ### 🚀 Project Setup
 
-> [!IMPORTANT]
+> [!NOTE]
 > **For each project, you must create the app first before working on it.**
 
 #### Step 1: Create Project Folder
