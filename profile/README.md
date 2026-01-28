@@ -2,7 +2,8 @@
 
 # 📚 Course Experiments Guide
 
-*A comprehensive guide for Full Stack Development course experiments, assignments, and attendance*
+_A comprehensive guide for Full Stack Development course experiments, assignments, and attendance_
+
 </div>
 
 ---
@@ -11,9 +12,9 @@
 
 <div align="center">
 
-| 📱 Phone | 🏠 Room |
-|----------|---------|
-| +919411245528 | D2 311 |
+| 📱 Phone      | 🏠 Room |
+| ------------- | ------- |
+| +919411245528 | D2 311  |
 
 </div>
 
@@ -131,7 +132,6 @@ Please submit your project details using the following link:
 
 ### 📋 Requirements
 
-
 ### 🏠 For Part B (Medium) Assignments
 
 You must submit the following inside a Google Form:
@@ -172,6 +172,7 @@ Host your code on **Vercel** or **Netlify** using the naming convention:
 > **Use dashes (`-`) not underscores (`_`)** in the naming convention.
 
 **Example:**
+
 - **UID**: `24BDA70021`
 - **Experiment**: `1b`
 - **Name**: `Navkaran Singh`
@@ -183,16 +184,13 @@ Host your code on **Vercel** or **Netlify** using the naming convention:
 
 Follow these steps to deploy your project using Vercel with GitHub integration:
 
-##### **Step 1: Create a GitHub Repository**
+##### **Step 1: Publish to GitHub from VS Code**
 
-1. Go to <a href="https://github.com">GitHub</a> and sign in
-2. Click the **"+"** icon in the top-right corner
-3. Select **"New repository"**
-4. Name your repository (e.g., `24bda70021-1b-navkaran-singh`)
-5. Leave the default settings (Public)
-6. Click on Add README button
-7. Click **"Create repository"**
-
+1. Open your project folder in **VS Code**.
+2. Click on the **Source Control** icon in the Activity Bar on the left (or press `Ctrl+Shift+G`).
+3. Click on the **"Publish to GitHub"** button.
+4. If prompted, select **"Publish to GitHub public repository"**.
+5. VS Code will automatically create the repository on your GitHub account and push your code!
 
 ##### **Step 2: Sign Up for Vercel**
 
@@ -210,9 +208,11 @@ Follow these steps to deploy your project using Vercel with GitHub integration:
 ##### **Step 4: Configure Your Project**
 
 1. **Project Name**: Change it to follow the naming convention:
+
    ```
    {uid}-{experiment-part}-{name}
    ```
+
    Example: `24bda70021-1b-navkaran-singh`
 
 2. Click **"Deploy"**
@@ -226,6 +226,7 @@ Follow these steps to deploy your project using Vercel with GitHub integration:
 ##### **Step 6: Copy Your Deployment Link**
 
 Your project will be live at:
+
 ```
 https://24bda70021-1b-navkaran-singh.vercel.app
 ```
@@ -250,10 +251,10 @@ Create a comprehensive README equivalent to your practical file:
 
 ### 🔒 Code Availability
 
-| Component | Availability |
-|-----------|-------------|
-| **Part A & Part B Code** | 🔐 Private until deadline |
-| **README.md Files** | 📖 Available for reference |
+| Component                | Availability               |
+| ------------------------ | -------------------------- |
+| **Part A & Part B Code** | 🔐 Private until deadline  |
+| **README.md Files**      | 📖 Available for reference |
 
 ---
 
@@ -284,17 +285,21 @@ Create a comprehensive README equivalent to your practical file:
 ### 🛠️ Installation and Setup
 
 #### Step 1: Install Git
+
 Download and install <a href="https://git-scm.com/downloads">Git</a> for version control
 
 **Why Git?**
+
 - Track changes in your code
 - Collaborate with others
 - Push your projects to GitHub
 
 #### Step 2: Install VSCode
+
 Download and install <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 
 #### Step 3: Install Five Server Extension
+
 Install the **Five Server** extension in VSCode (an improved version of Live Server)
 
 1. Open VSCode
@@ -308,11 +313,11 @@ Install the **Five Server** extension in VSCode (an improved version of Live Ser
 
 Explore these repositories for reference materials:
 
-| Topic | Repository |
-|-------|-----------|
-| 🔲 **Flexbox** | <a href="https://github.com/cu-fs1/flexbox">github.com/cu-fs1/flexbox</a> |
-| 📍 **Positioning** | <a href="https://github.com/cu-fs1/positioning">github.com/cu-fs1/positioning</a> |
-| 🎯 **Grid** | <a href="https://github.com/cu-fs1/grid">github.com/cu-fs1/grid</a> |
+| Topic                    | Repository                                                                                    |
+| ------------------------ | --------------------------------------------------------------------------------------------- |
+| 🔲 **Flexbox**           | <a href="https://github.com/cu-fs1/flexbox">github.com/cu-fs1/flexbox</a>                     |
+| 📍 **Positioning**       | <a href="https://github.com/cu-fs1/positioning">github.com/cu-fs1/positioning</a>             |
+| 🎯 **Grid**              | <a href="https://github.com/cu-fs1/grid">github.com/cu-fs1/grid</a>                           |
 | 🟨 **JavaScript Basics** | <a href="https://github.com/cu-fs1/javascript-basics">github.com/cu-fs1/javascript-basics</a> |
 
 ---
@@ -328,10 +333,11 @@ Explore these repositories for reference materials:
 
 Download and install **Node.js** from the <a href="https://nodejs.org/en/download">official website</a>
 
-> [!NOTE] 
+> [!NOTE]
 > Installing Node.js also installs **npm** (Node Package Manager)
 
 **What you get:**
+
 - **Node.js**: JavaScript runtime built on Chrome's V8 engine, used to run JavaScript outside the browser
 - **npm**: Node Package Manager; manages JavaScript libraries and tools
 
@@ -346,6 +352,7 @@ npm i -g pnpm
 ```
 
 **Command breakdown:**
+
 - `npm` — Node Package Manager CLI
 - `i` — Short for `install`; tells npm to install a package
 - `-g` — Short for `--global`; installs the package globally so it can be used from any folder
@@ -365,6 +372,7 @@ Set-ExecutionPolicy Unrestricted -Scope CurrentUser
 ```
 
 **Command breakdown:**
+
 - `Set-ExecutionPolicy` — PowerShell command that changes the script execution policy
 - `Unrestricted` — Allows all scripts to run, but shows a warning before running scripts from the internet
 - `-Scope CurrentUser` — Applies this policy only to the current user, not system-wide
@@ -392,6 +400,7 @@ mkdir 24bda70021-2b-navkaran-singh
 > **Use dashes (`-`) not underscores (`_`)** in the folder name.
 
 **Example:**
+
 - **UID**: `24BDA70021`
 - **Experiment**: `2b`
 - **Name**: `navkaran-singh`
@@ -414,19 +423,20 @@ pnpm create next-app@latest .
 ```
 
 **Command breakdown:**
+
 - `pnpm` — The pnpm CLI, your package manager
 - `create` — Tells pnpm to run a project scaffolding tool (a "create" script)
-- `next-app@latest` — Uses the *create-next-app* initializer at its latest version to generate a Next.js app
+- `next-app@latest` — Uses the _create-next-app_ initializer at its latest version to generate a Next.js app
 - `.` — Dot means "current directory", so the app is created inside your folder (e.g., `24bda70021-2bnavkaran-singh`) instead of a new subfolder
 
 ---
 
 ### 📚 Resources
 
-| Topic | Repository |
-|-------|-----------|
+| Topic               | Repository                                                                          |
+| ------------------- | ----------------------------------------------------------------------------------- |
 | ⚛️ **React Basics** | <a href="https://github.com/cu-fs1/react-basics">github.com/cu-fs1/react-basics</a> |
-| 🔢 **Counter** | <a href="https://github.com/cu-fs1/counter">github.com/cu-fs1/counter</a> |
+| 🔢 **Counter**      | <a href="https://github.com/cu-fs1/counter">github.com/cu-fs1/counter</a>           |
 
 ---
 
