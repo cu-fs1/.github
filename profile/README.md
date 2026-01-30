@@ -54,7 +54,7 @@ Track your attendance and participation using the spreadsheet below:
 </div>
 
 > [!NOTE]
-> Anyone who was left, please mark your attendance in the comments of the spreadsheet.
+> Anyone who was left, please tell me your name by contacting me directly.
 
 ---
 
