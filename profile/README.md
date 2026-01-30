@@ -22,7 +22,7 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
   - [📋 Requirements](#-requirements)
 - [🧪 Experiment Guides](#-experiment-guides)
   - [🎨 Experiment 1](#-experiment-1)
-  - [⚛️ Experiment 2](#-experiment-2)
+  - [⚛️ Experiment 2](#experiment-2)
   - [🔧 Experiment 3](#-experiment-3)
 
 ---
@@ -32,8 +32,8 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 <div align="center">
 
 | 📱 Phone      | 🏠 Cabin |
-| :------------ | :------ |
-| +919411245528 | D2 311  |
+| :------------ | :------- |
+| +919411245528 | D2 311   |
 
 </div>
 
@@ -352,7 +352,7 @@ Explore these repositories for reference materials:
 
 ---
 
-## ⚛️ Experiment 2
+## ⚛️ Experiment 2 <a name="experiment-2"></a>
 
 > [!IMPORTANT]
 > **Deadline:** 4 February 2026
