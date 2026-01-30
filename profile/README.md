@@ -24,11 +24,11 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 <div align="center">
 
-| Group Name                | Invite Link                                                    |
-| :------------------------ | :------------------------------------------------------------- |
-| **Full Stack AIT_NTPP-1** | [Join Group](https://chat.whatsapp.com/FnujNwtHviLHTysZWudWaH) |
-| **Full Stack BDS-1-A**    | [Join Group](https://chat.whatsapp.com/CY57EwuK0JkGjb1p1AsbKl) |
-| **Full Stack BCY-3-B**    | [Join Group](https://chat.whatsapp.com/BaA1QPE5IT257Wsy9AeEx6) |
+| Group                     | Section | Invite Link                                                                                                                                                                                      |
+| :------------------------ | :------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Full Stack AIT_NTPP-1** | A & B   | <a href="https://chat.whatsapp.com/FnujNwtHviLHTysZWudWaH"><img src="https://img.shields.io/badge/Join%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Group" /></a> |
+| **Full Stack BDS-1-A**    | A       | <a href="https://chat.whatsapp.com/CY57EwuK0JkGjb1p1AsbKl"><img src="https://img.shields.io/badge/Join%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Group" /></a> |
+| **Full Stack BCY-3-B**    | B       | <a href="https://chat.whatsapp.com/BaA1QPE5IT257Wsy9AeEx6"><img src="https://img.shields.io/badge/Join%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Group" /></a> |
 
 </div>
 
