@@ -29,8 +29,6 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 <a name="contact-information"></a>
 
-<br />
-
 ## 📞 Contact Information
 
 <div align="center">
@@ -44,8 +42,6 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 ---
 
 <a name="whatsapp-groups"></a>
-
-<br />
 
 ## 💬 WhatsApp Groups
 
@@ -63,8 +59,6 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 <a name="screen-sharing"></a>
 
-<br />
-
 ## 💻 Screen Sharing
 
 Join the Google Meet session for live screen sharing during class:
@@ -79,8 +73,6 @@ Join the Google Meet session for live screen sharing during class:
 
 <a name="course-materials"></a>
 
-<br />
-
 ## 📖 Course Materials
 
 All source materials for the course are available at: <a href="https://github.com/orgs/cu-fs1/repositories">github.com/orgs/cu-fs1/repositories</a>
@@ -88,8 +80,6 @@ All source materials for the course are available at: <a href="https://github.co
 ---
 
 <a name="attendance"></a>
-
-<br />
 
 ## 📅 Attendance
 
@@ -109,8 +99,6 @@ Track your attendance and participation using the spreadsheet below:
 ---
 
 <a name="assignment-structure-grading"></a>
-
-<br />
 
 ## 🎯 Assignment Structure & Grading
 
@@ -162,13 +150,9 @@ Each experiment consists of **three parts** with different difficulty levels:
 
 <a name="submission"></a>
 
-<br />
-
 ## 📤 Submission
 
 <a name="google-form"></a>
-
-<br />
 
 ### 📝 Google Form
 
@@ -184,8 +168,6 @@ Please submit your project details using the following link:
 
 <a name="demo-video"></a>
 
-<br />
-
 ### 🎥 Demo Video
 
 <div align="center">
@@ -197,8 +179,6 @@ Please submit your project details using the following link:
 ---
 
 <a name="requirements"></a>
-
-<br />
 
 ### 📋 Requirements
 
@@ -347,13 +327,9 @@ Create a comprehensive README equivalent to your practical file:
 
 <a name="experiment-guides"></a>
 
-<br />
-
 ## 🧪 Experiment Guides
 
 <a name="experiment-1"></a>
-
-<br />
 
 ## 🎨 Experiment 1
 
@@ -401,8 +377,6 @@ Explore these repositories for reference materials:
 ---
 
 <a name="experiment-2"></a>
-
-<br />
 
 ## ⚛️ Experiment 2
 
@@ -523,8 +497,6 @@ pnpm create next-app@latest .
 ---
 
 <a name="experiment-3"></a>
-
-<br />
 
 ## 🔧 Experiment 3
 
