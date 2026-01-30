@@ -352,7 +352,9 @@ Explore these repositories for reference materials:
 
 ---
 
-## ⚛️ Experiment 2 <a name="experiment-2"></a>
+<a name="experiment-2"></a>
+
+## ⚛️ Experiment 2
 
 > [!IMPORTANT]
 > **Deadline:** 4 February 2026
