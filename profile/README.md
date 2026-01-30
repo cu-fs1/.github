@@ -13,8 +13,22 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 <div align="center">
 
 | 📱 Phone      | 🏠 Room |
-| ------------- | ------- |
+| :------------ | :------ |
 | +919411245528 | D2 311  |
+
+</div>
+
+---
+
+## 💬 WhatsApp Groups
+
+<div align="center">
+
+| Group Name                | Invite Link                                                    |
+| :------------------------ | :------------------------------------------------------------- |
+| **Full Stack AIT_NTPP-1** | [Join Group](https://chat.whatsapp.com/FnujNwtHviLHTysZWudWaH) |
+| **Full Stack BDS-1-A**    | [Join Group](https://chat.whatsapp.com/CY57EwuK0JkGjb1p1AsbKl) |
+| **Full Stack BCY-3-B**    | [Join Group](https://chat.whatsapp.com/BaA1QPE5IT257Wsy9AeEx6) |
 
 </div>
 
@@ -22,6 +36,7 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 ## 📑 Table of Contents
 
+- [💬 WhatsApp Groups](#-whatsapp-groups)
 - [📖 Course Materials](#-course-materials)
 - [📅 Attendance](#-attendance)
 - [🎯 Assignment Structure & Grading](#-assignment-structure--grading)
