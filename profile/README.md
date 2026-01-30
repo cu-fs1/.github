@@ -10,22 +10,24 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 ## 📑 Table of Contents
 
-- [📞 Contact Information](#-contact-information)
-- [💬 WhatsApp Groups](#-whatsapp-groups)
-- [💻 Screen Sharing](#-screen-sharing)
-- [📖 Course Materials](#-course-materials)
-- [📅 Attendance](#-attendance)
-- [🎯 Assignment Structure & Grading](#-assignment-structure--grading)
-- [📤 Submission](#-submission)
-  - [📝 Google Form](#-google-form)
-  - [🎥 Demo Video](#-demo-video)
-  - [📋 Requirements](#-requirements)
-- [🧪 Experiment Guides](#-experiment-guides)
-  - [🎨 Experiment 1](#-experiment-1)
+- [📞 Contact Information](#contact-information)
+- [💬 WhatsApp Groups](#whatsapp-groups)
+- [💻 Screen Sharing](#screen-sharing)
+- [📖 Course Materials](#course-materials)
+- [📅 Attendance](#attendance)
+- [🎯 Assignment Structure & Grading](#assignment-structure-grading)
+- [📤 Submission](#submission)
+  - [📝 Google Form](#google-form)
+  - [🎥 Demo Video](#demo-video)
+  - [📋 Requirements](#requirements)
+- [🧪 Experiment Guides](#experiment-guides)
+  - [🎨 Experiment 1](#experiment-1)
   - [⚛️ Experiment 2](#experiment-2)
-  - [🔧 Experiment 3](#-experiment-3)
+  - [🔧 Experiment 3](#experiment-3)
 
 ---
+
+<a name="contact-information"></a>
 
 ## 📞 Contact Information
 
@@ -38,6 +40,8 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 </div>
 
 ---
+
+<a name="whatsapp-groups"></a>
 
 ## 💬 WhatsApp Groups
 
@@ -53,6 +57,8 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 ---
 
+<a name="screen-sharing"></a>
+
 ## 💻 Screen Sharing
 
 Join the Google Meet session for live screen sharing during class:
@@ -65,11 +71,15 @@ Join the Google Meet session for live screen sharing during class:
 
 ---
 
+<a name="course-materials"></a>
+
 ## 📖 Course Materials
 
 All source materials for the course are available at: <a href="https://github.com/orgs/cu-fs1/repositories">github.com/orgs/cu-fs1/repositories</a>
 
 ---
+
+<a name="attendance"></a>
 
 ## 📅 Attendance
 
@@ -87,6 +97,8 @@ Track your attendance and participation using the spreadsheet below:
 > Anyone who was left, please tell me your name by contacting me directly.
 
 ---
+
+<a name="assignment-structure-grading"></a>
 
 ## 🎯 Assignment Structure & Grading
 
@@ -136,7 +148,11 @@ Each experiment consists of **three parts** with different difficulty levels:
 
 ---
 
+<a name="submission"></a>
+
 ## 📤 Submission
+
+<a name="google-form"></a>
 
 ### 📝 Google Form
 
@@ -150,6 +166,8 @@ Please submit your project details using the following link:
 
 ---
 
+<a name="demo-video"></a>
+
 ### 🎥 Demo Video
 
 <div align="center">
@@ -159,6 +177,8 @@ Please submit your project details using the following link:
 </div>
 
 ---
+
+<a name="requirements"></a>
 
 ### 📋 Requirements
 
@@ -305,7 +325,11 @@ Create a comprehensive README equivalent to your practical file:
 
 ---
 
+<a name="experiment-guides"></a>
+
 ## 🧪 Experiment Guides
+
+<a name="experiment-1"></a>
 
 ## 🎨 Experiment 1
 
@@ -471,6 +495,8 @@ pnpm create next-app@latest .
 | 🔢 **Counter**      | <a href="https://github.com/cu-fs1/counter">github.com/cu-fs1/counter</a>           |
 
 ---
+
+<a name="experiment-3"></a>
 
 ## 🔧 Experiment 3
 
