@@ -30,7 +30,7 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 <div align="center">
 
-| 📱 Phone      | 🏠 Room |
+| 📱 Phone      | 🏠 Cabin |
 | :------------ | :------ |
 | +919411245528 | D2 311  |
 
