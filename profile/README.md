@@ -12,6 +12,7 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 - [📞 Contact Information](#-contact-information)
 - [💬 WhatsApp Groups](#-whatsapp-groups)
+- [💻 Screen Sharing](#-screen-sharing)
 - [📖 Course Materials](#-course-materials)
 - [📅 Attendance](#-attendance)
 - [🎯 Assignment Structure & Grading](#-assignment-structure--grading)
@@ -48,6 +49,18 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 | **Full Stack BDS-1-A**    | A       | <a href="https://chat.whatsapp.com/CY57EwuK0JkGjb1p1AsbKl"><img src="https://img.shields.io/badge/Join%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Group" /></a> |
 | **Full Stack BCY-3-B**    | B       | <a href="https://chat.whatsapp.com/BaA1QPE5IT257Wsy9AeEx6"><img src="https://img.shields.io/badge/Join%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Group" /></a> |
 
+</div>
+
+---
+
+## 💻 Screen Sharing
+
+Join the Google Meet session for live screen sharing during class:
+
+<div align="center">
+  <a href="https://meet.google.com/koa-hxha-ink">
+    <img src="https://img.shields.io/badge/Join%20Screen%20Share-EA4335?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Join Google Meet" />
+  </a>
 </div>
 
 ---
