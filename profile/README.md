@@ -8,6 +8,24 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 ---
 
+## 📑 Table of Contents
+
+- [📞 Contact Information](#-contact-information)
+- [💬 WhatsApp Groups](#-whatsapp-groups)
+- [📖 Course Materials](#-course-materials)
+- [📅 Attendance](#-attendance)
+- [🎯 Assignment Structure & Grading](#-assignment-structure--grading)
+- [📤 Submission](#-submission)
+  - [📝 Google Form](#-google-form)
+  - [🎥 Demo Video](#-demo-video)
+  - [📋 Requirements](#-requirements)
+- [🧪 Experiment Guides](#-experiment-guides)
+  - [🎨 Experiment 1](#-experiment-1)
+  - [⚛️ Experiment 2](#-experiment-2)
+  - [🔧 Experiment 3](#-experiment-3)
+
+---
+
 ## 📞 Contact Information
 
 <div align="center">
@@ -31,22 +49,6 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 | **Full Stack BCY-3-B**    | B       | <a href="https://chat.whatsapp.com/BaA1QPE5IT257Wsy9AeEx6"><img src="https://img.shields.io/badge/Join%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Group" /></a> |
 
 </div>
-
----
-
-## 📑 Table of Contents
-
-- [💬 WhatsApp Groups](#-whatsapp-groups)
-- [📖 Course Materials](#-course-materials)
-- [📅 Attendance](#-attendance)
-- [🎯 Assignment Structure & Grading](#-assignment-structure--grading)
-- [📤 Submission](#-submission)
-  - [📝 Google Form](#-google-form)
-  - [🎥 Demo Video](#-demo-video)
-  - [📋 Requirements](#-requirements)
-- [🧪 Experiment Guides](#-experiment-guides)
-  - [Experiment 1](#-experiment-1)
-  - [Experiment 2](#️-experiment-2)
 
 ---
 
