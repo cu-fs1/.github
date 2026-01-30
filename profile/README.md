@@ -2,7 +2,7 @@
 
 # 📚 Course Experiments Guide
 
-_A comprehensive guide for Full Stack Development course experiments, assignments, and attendance_
+_A comprehensive guide for Full Stack Development course experiments, assignments, whatsapp groups, and attendance_
 
 </div>
 
