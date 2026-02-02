@@ -18,6 +18,7 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 - [🎯 Assignment Structure & Grading](#assignment-structure-grading)
 - [📤 Submission](#submission)
   - [📝 Google Form](#google-form)
+  - [📊 Submission Spreadsheet](#submission-spreadsheet)
   - [🎥 Demo Video](#demo-video)
   - [📋 Requirements](#requirements)
 - [🧪 Experiment Guides](#experiment-guides)
@@ -161,6 +162,20 @@ Please submit your project details using the following link:
 <div align="center">
   <a href="https://forms.gle/jyG6rjwrGiikiCQv6">
     <img src="https://img.shields.io/badge/Submit%20to%20Google%20Form-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Submit to Google Form" />
+  </a>
+</div>
+
+---
+
+<a name="submission-spreadsheet"></a>
+
+### 📊 Submission Spreadsheet
+
+You can track your submission status using the spreadsheet below:
+
+<div align="center">
+  <a href="https://docs.google.com/spreadsheets/d/1Zz46ZpLqxSGlEJNZjwXaW-TGIFAZF4e_KcdZUq_MDoQ/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20Submission%20Spreadsheet-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="View Submission Spreadsheet" />
   </a>
 </div>
 
