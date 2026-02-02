@@ -442,7 +442,7 @@ Set-ExecutionPolicy Unrestricted -Scope CurrentUser
 
 #### Step 1: Create Project Folder
 
-Create a folder following the naming convention:
+Create a folder following the naming convention by running the command below:
 
 ```bash
 mkdir {uid}-2b-{name}
