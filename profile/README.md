@@ -416,11 +416,18 @@ Download and install **Node.js** from the <a href="https://nodejs.org/en/downloa
 
 #### Step 2: Install pnpm Globally
 
-Open **PowerShell** or **Command Prompt** and run:
+Open **PowerShell**, **Command Prompt**, or **Terminal** and run:
 
 ```bash
 npm i -g pnpm
 ```
+
+> [!TIP]
+> **For macOS/Linux users**: If you encounter permission issues, use `sudo`:
+>
+> ```bash
+> sudo npm i -g pnpm
+> ```
 
 **Command breakdown:**
 
