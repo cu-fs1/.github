@@ -525,6 +525,8 @@ pnpm create next-app@latest .
 > [!IMPORTANT]
 > **Deadline:** 13 February 2026
 
+Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
+
 ---
 
 <div align="center">
