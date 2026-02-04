@@ -414,7 +414,25 @@ Download and install **Node.js** from the <a href="https://nodejs.org/en/downloa
 
 ---
 
-#### Step 2: Install pnpm Globally
+#### Step 2: Set Execution Policy (Windows Only)
+
+To allow running local scripts, you need to set the execution policy.
+
+Open **PowerShell** and run:
+
+```powershell
+Set-ExecutionPolicy Unrestricted -Scope CurrentUser
+```
+
+**Command breakdown:**
+
+- `Set-ExecutionPolicy` — PowerShell command that changes the script execution policy
+- `Unrestricted` — Allows all scripts to run, but shows a warning before running scripts from the internet
+- `-Scope CurrentUser` — Applies this policy only to the current user, not system-wide
+
+---
+
+#### Step 3: Install pnpm Globally
 
 Open **PowerShell**, **Command Prompt**, or **Terminal** and run:
 
@@ -435,25 +453,6 @@ npm i -g pnpm
 - `i` — Short for `install`; tells npm to install a package
 - `-g` — Short for `--global`; installs the package globally so it can be used from any folder
 - `pnpm` — **Performant NPM**, an alternative fast package manager that uses a content-addressable store to save disk space
-
----
-
-#### Step 3: Fix Execution Policy (Windows Only)
-
-> [!WARNING]
-> If you encounter an execution policy error on Windows, follow these steps:
-
-Open **PowerShell as current user** and run:
-
-```powershell
-Set-ExecutionPolicy Unrestricted -Scope CurrentUser
-```
-
-**Command breakdown:**
-
-- `Set-ExecutionPolicy` — PowerShell command that changes the script execution policy
-- `Unrestricted` — Allows all scripts to run, but shows a warning before running scripts from the internet
-- `-Scope CurrentUser` — Applies this policy only to the current user, not system-wide
 
 ---
 
