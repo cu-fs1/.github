@@ -25,6 +25,7 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
   - [🎨 Experiment 1](#experiment-1)
   - [⚛️ Experiment 2](#experiment-2)
   - [🔧 Experiment 3](#experiment-3)
+  - [🔌 Experiment 4](#experiment-4)
 
 ---
 
@@ -531,6 +532,60 @@ pnpm create next-app@latest .
 > **Deadline:** 13 February 2026
 
 Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
+
+---
+
+<a name="experiment-4"></a>
+
+## 🔌 Experiment 4
+
+### 🚀 Project Setup
+
+> [!NOTE]
+> **For each project, you must create the app first before working on it.**
+
+#### Step 1: Create Project Folder
+
+Create a folder following the naming convention by running the command below:
+
+```bash
+mkdir {uid}-4b-{name}
+# Example:
+mkdir 24bda70021-4b-navkaran-singh
+```
+
+**Naming Convention:** Use the pattern `{uid}-4b-{name}` as the folder name
+
+> [!WARNING]
+> **Use dashes (`-`) not underscores (`_`)** in the folder name.
+
+**Example:**
+
+- **UID**: `24BDA70021`
+- **Experiment**: `4b`
+- **Name**: `navkaran-singh`
+- **Result**: `24bda70021-4b-navkaran-singh`
+
+---
+
+#### Step 2: Open in VSCode
+
+Open the folder in VSCode so that all commands run in this project directory
+
+---
+
+#### Step 3: Follow Structure of 4a
+
+Follow the structure of **4a** for this experiment.
+
+---
+
+### 📚 Resources
+
+| Topic           | Repository                                                                  |
+| --------------- | --------------------------------------------------------------------------- |
+| 🤝 **Promises** | <a href="https://github.com/cu-fs1/promises">github.com/cu-fs1/promises</a> |
+| 🏗️ **MVC**      | <a href="https://github.com/cu-fs1/mvc">github.com/cu-fs1/mvc</a>           |
 
 ---
 
