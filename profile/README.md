@@ -576,7 +576,7 @@ Open the folder in VSCode so that all commands run in this project directory
 
 #### Step 3: Follow Structure of 4a
 
-Follow the structure of **4a** for this experiment.
+Follow the structure of [**4a**](https://github.com/cu-fs1/4a) for this experiment.
 
 ---
 
