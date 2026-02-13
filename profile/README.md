@@ -434,25 +434,31 @@ Set-ExecutionPolicy Unrestricted -Scope CurrentUser
 
 #### Step 3: Install pnpm Globally
 
-Open **PowerShell**, **Command Prompt**, or **Terminal** and run:
+**💻 For Windows:**
+
+Open **PowerShell** or **Command Prompt** and run:
 
 ```bash
 npm i -g pnpm
 ```
 
-> [!TIP]
-> **For macOS/Linux users**: If you encounter permission issues, use `sudo`:
->
-> ```bash
-> sudo npm i -g pnpm
-> ```
+---
+
+**🍎 For macOS:**
+
+Open **Terminal** and run:
+
+```bash
+sudo npm i -g pnpm
+```
 
 **Command breakdown:**
 
 - `npm` — Node Package Manager CLI
 - `i` — Short for `install`; tells npm to install a package
-- `-g` — Short for `--global`; installs the package globally so it can be used from any folder
-- `pnpm` — **Performant NPM**, an alternative fast package manager that uses a content-addressable store to save disk space
+- `-g` — Short for `--global`; installs the package globally
+- `sudo` — (macOS only) Run command with administrative privileges
+- `pnpm` — **Performant NPM**, an alternative fast package manager that saves disk space
 
 ---
 
