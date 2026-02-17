@@ -541,40 +541,7 @@ Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
 
 ### 🚀 Project Setup
 
-> [!NOTE]
-> **For each project, you must create the app first before working on it.**
-
-#### Step 1: Create Project Folder
-
-Create a folder following the naming convention by running the command below:
-
-```bash
-mkdir {uid}-4b-{name}
-# Example:
-mkdir 24bda70021-4b-navkaran-singh
-```
-
-**Naming Convention:** Use the pattern `{uid}-4b-{name}` as the folder name
-
-> [!WARNING]
-> **Use dashes (`-`) not underscores (`_`)** in the folder name.
-
-**Example:**
-
-- **UID**: `24BDA70021`
-- **Experiment**: `4b`
-- **Name**: `navkaran-singh`
-- **Result**: `24bda70021-4b-navkaran-singh`
-
----
-
-#### Step 2: Open in VSCode
-
-Open the folder in VSCode so that all commands run in this project directory
-
----
-
-#### Step 4: Install Dependencies
+#### Step 1: Install Dependencies
 
 Open the terminal in VSCode and run:
 
