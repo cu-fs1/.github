@@ -552,6 +552,22 @@ pnpm add -D nodemon
 
 ---
 
+#### Step 2: Update package.json
+
+Open `package.json` and add `"type": "module"` along with the following scripts:
+
+```json
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  }
+}
+```
+
+---
+
 ### 📚 Resources
 
 | Topic           | Repository                                                                  |
