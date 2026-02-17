@@ -539,6 +539,9 @@ Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
 
 ## 🔌 Experiment 4
 
+> [!IMPORTANT]
+> **Deadline:** 19 February 2026
+
 ### 🚀 Project Setup
 
 #### Step 1: Install Dependencies
