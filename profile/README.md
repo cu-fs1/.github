@@ -574,9 +574,14 @@ Open the folder in VSCode so that all commands run in this project directory
 
 ---
 
-#### Step 3: Follow Structure of 4a
+#### Step 4: Install Dependencies
 
-Follow the structure of [**4a**](https://github.com/cu-fs1/4a) for this experiment.
+Open the terminal in VSCode and run:
+
+```bash
+pnpm add express cors
+pnpm add -D nodemon
+```
 
 ---
 
