@@ -561,10 +561,17 @@ Open `package.json` and add `"type": "module"` along with the following scripts:
   "type": "module",
   "scripts": {
     "start": "node index.js",
+
     "dev": "nodemon index.js"
   }
 }
 ```
+
+---
+
+#### Step 3: Create .gitignore
+
+Create a `.gitignore` file and copy-paste the content from <a href="https://www.toptal.com/developers/gitignore/api/node">here</a>.
 
 ---
 
