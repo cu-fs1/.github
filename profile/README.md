@@ -26,6 +26,8 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
   - [⚛️ Experiment 2](#experiment-2)
   - [🔧 Experiment 3](#experiment-3)
   - [🔌 Experiment 4](#experiment-4)
+  - [📂 Experiment 5](#experiment-5)
+  - [🗄️ Experiment 6](#experiment-6)
 
 ---
 
@@ -590,6 +592,24 @@ Download and install <a href="https://www.postman.com/downloads/">Postman</a> to
 | --------------- | --------------------------------------------------------------------------- |
 | 🤝 **Promises** | <a href="https://github.com/cu-fs1/promises">github.com/cu-fs1/promises</a> |
 | 🏗️ **MVC**      | <a href="https://github.com/cu-fs1/mvc">github.com/cu-fs1/mvc</a>           |
+
+---
+
+<a name="experiment-5"></a>
+
+## 📂 Experiment 5
+
+> [!IMPORTANT]
+> **Deadline:** 9 March 2026
+
+---
+
+<a name="experiment-6"></a>
+
+## 🗄️ Experiment 6
+
+> [!IMPORTANT]
+> **Deadline:** 18 March 2026
 
 ---
 
