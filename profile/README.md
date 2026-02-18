@@ -575,6 +575,12 @@ Create a `.gitignore` file and copy-paste the content from <a href="https://www.
 
 ---
 
+#### Step 4: Download Postman
+
+Download and install <a href="https://www.postman.com/downloads/">Postman</a> to test your API endpoints.
+
+---
+
 ### 📚 Resources
 
 | Topic           | Repository                                                                  |
