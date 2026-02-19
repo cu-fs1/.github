@@ -20,7 +20,8 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
   - [📝 Google Form](#google-form)
   - [📊 Submission Spreadsheet](#submission-spreadsheet)
   - [🎥 Demo Video](#demo-video)
-  - [📋 Requirements](#requirements)
+  - [� Postman Collection](#postman-collection)
+  - [�📋 Requirements](#requirements)
 - [🧪 Experiment Guides](#experiment-guides)
   - [🎨 Experiment 1](#experiment-1)
   - [⚛️ Experiment 2](#experiment-2)
@@ -191,6 +192,20 @@ You can track your submission status using the spreadsheet below:
 <div align="center">
   <a href="https://gumlet.tv/watch/6974eeb2c2fb61ce19db1242/">
     <img src="https://img.shields.io/badge/Watch_on_Gumlet-0B63F3?style=for-the-badge&logoColor=white" alt="Watch on Gumlet" />
+  </a>
+</div>
+
+---
+
+<a name="postman-collection"></a>
+
+### � Postman Collection
+
+Access the Postman collection for testing the API endpoints:
+
+<div align="center">
+  <a href="https://shorturl.at/3cPlf">
+    <img src="https://img.shields.io/badge/View%20Postman%20Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="View Postman Collection" />
   </a>
 </div>
 
