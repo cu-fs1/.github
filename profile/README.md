@@ -20,8 +20,8 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
   - [📝 Google Form](#google-form)
   - [📊 Submission Spreadsheet](#submission-spreadsheet)
   - [🎥 Demo Video](#demo-video)
-  - [� Postman Collection](#postman-collection)
-  - [�📋 Requirements](#requirements)
+  - [📮 Postman Collection](#postman-collection)
+  - [📋 Requirements](#requirements)
 - [🧪 Experiment Guides](#experiment-guides)
   - [🎨 Experiment 1](#experiment-1)
   - [⚛️ Experiment 2](#experiment-2)
@@ -199,7 +199,7 @@ You can track your submission status using the spreadsheet below:
 
 <a name="postman-collection"></a>
 
-### � Postman Collection
+### 📮 Postman Collection
 
 Access the Postman collection for testing the API endpoints:
 
