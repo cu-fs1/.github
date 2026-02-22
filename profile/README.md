@@ -617,6 +617,8 @@ Download and install <a href="https://www.postman.com/downloads/">Postman</a> to
 > [!IMPORTANT]
 > **Deadline:** 9 March 2026
 
+Follow the [Experiment 4 guide](#experiment-4) for setup and instructions.
+
 ---
 
 <a name="experiment-6"></a>
@@ -625,6 +627,8 @@ Download and install <a href="https://www.postman.com/downloads/">Postman</a> to
 
 > [!IMPORTANT]
 > **Deadline:** 18 March 2026
+
+Follow the [Experiment 4 guide](#experiment-4) for setup and instructions.
 
 ---
 
