@@ -617,7 +617,41 @@ Download and install <a href="https://www.postman.com/downloads/">Postman</a> to
 > [!IMPORTANT]
 > **Deadline:** 9 March 2026
 
-Follow the [Experiment 4 guide](#experiment-4) for setup and instructions.
+Follow the [Experiment 4 guide](#experiment-4) for initial setup, then follow the MongoDB setup below:
+
+### 🗄️ MongoDB Cloud Setup
+
+#### Step 1: Create a Cluster
+1. Sign up/Login to [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register).
+2. Create a new project and click **"Create"** to deploy a cluster.
+3. Choose the **FREE (M0)** tier.
+4. Select your preferred provider and region, then click **"Create"**.
+
+#### Step 2: Create Database and Collection
+1. Once your cluster is ready, click **"Browse Collections"**.
+2. Click **"Add My Own Data"**.
+3. Enter a **Database Name** and a **Collection Name** i.e. `students`.
+4. Click **"Create"**.
+
+#### Step 3: Create Database User
+1. Go to **Database Access** under the **Security** tab.
+2. Click **"Add New Database User"**.
+3. Set a username and a strong password.
+4. Ensure the role is set to **"Read and write to any database"**.
+5. Click **"Add User"**.
+
+#### Step 4: Get Connection String
+1. Go to **Database** under the **Deployment** tab.
+2. Click **"Connect"**.
+3. Choose **"Drivers"**.
+4. Copy your connection string (SRV).
+5. Remember to replace `<password>` with your actual database user password.
+
+#### Step 5: Configure Network Access
+1. Go to **Network Access** under the **Security** tab in the sidebar.
+2. Click **"Add IP Address"**.
+3. Click **"Allow Access From Anywhere"** (0.0.0.0/0) to allow access from all IP addresses.
+4. Click **"Confirm"**.
 
 ---
 
