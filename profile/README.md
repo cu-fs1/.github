@@ -653,6 +653,8 @@ Follow the [Experiment 4 guide](#experiment-4) for initial setup, then follow th
 3. Click **"Allow Access From Anywhere"** (0.0.0.0/0) to allow access from all IP addresses.
 4. Click **"Confirm"**.
 
+> **Vercel Deployment Tip:**
+> After setting up your project, head to your Vercel dashboard and open the project settings. Add all necessary environment variables (like your MongoDB connection string, API keys, etc.) under the **Environment Variables** section so they are available during build and runtime.
 ---
 
 <a name="experiment-6"></a>
