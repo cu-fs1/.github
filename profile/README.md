@@ -556,7 +556,7 @@ Follow the [Experiment 4 guide](#experiment-4) for initial setup, then follow th
 ### 🗄️ MongoDB Cloud Setup
 
 #### Step 1: Create a Cluster
-1. Sign up/Login to [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register).
+1. Sign up/Login to [MongoDB](https://www.mongodb.com/).
 2. Create a new project and click **"Create"** to deploy a cluster.
 3. Choose the **FREE (M0)** tier.
 4. Select your preferred provider and region, then click **"Create"**.
@@ -587,6 +587,8 @@ Follow the [Experiment 4 guide](#experiment-4) for initial setup, then follow th
 3. Click **"Allow Access From Anywhere"** (0.0.0.0/0) to allow access from all IP addresses.
 4. Click **"Confirm"**.
 
+> **Vercel Deployment Tip:**
+> After setting up your project, head to your Vercel dashboard and open the project settings. Add all necessary environment variables (like your MongoDB connection string, API keys, etc.) under the **Environment Variables** section so they are available during build and runtime.
 ---
 
 <a name="experiment-6"></a>
