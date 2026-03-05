@@ -12,10 +12,8 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 - [📞 Contact Information](#contact-information)
 - [💬 WhatsApp Groups](#whatsapp-groups)
-- [💻 Screen Sharing](#screen-sharing)
 - [📖 Course Materials](#course-materials)
 - [📅 Attendance](#attendance)
-- [🎯 Assignment Structure & Grading](#assignment-structure-grading)
 - [📤 Submission](#submission)
   - [📝 Google Form](#google-form)
   - [📊 Submission Spreadsheet](#submission-spreadsheet)
@@ -62,20 +60,6 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 ---
 
-<a name="screen-sharing"></a>
-
-## 💻 Screen Sharing
-
-Join the Google Meet session for live screen sharing during class:
-
-<div align="center">
-  <a href="https://meet.google.com/koa-hxha-ink">
-    <img src="https://img.shields.io/badge/Join%20Screen%20Share-EA4335?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Join Google Meet" />
-  </a>
-</div>
-
----
-
 <a name="course-materials"></a>
 
 ## 📖 Course Materials
@@ -100,56 +84,6 @@ Track your attendance and participation using the spreadsheet below:
 
 > [!NOTE]
 > Anyone who was left, please tell me your name by contacting me directly.
-
----
-
-<a name="assignment-structure-grading"></a>
-
-## 🎯 Assignment Structure & Grading
-
-Each experiment consists of **three parts** with different difficulty levels:
-
-<table>
-<thead>
-<tr>
-<th>Part</th>
-<th>Difficulty</th>
-<th>Type</th>
-<th>Code Points</th>
-<th>Viva Points</th>
-<th>Total Points</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>📝 <strong>Part A</strong></td>
-<td><code>Easy</code></td>
-<td>In-Class</td>
-<td>12</td>
-<td>3</td>
-<td><strong>15</strong></td>
-</tr>
-<tr>
-<td>🏠 <strong>Part B</strong></td>
-<td><code>Medium</code></td>
-<td>Take-Home</td>
-<td>5</td>
-<td>4</td>
-<td><strong>9</strong></td>
-</tr>
-<tr>
-<td>🎓 <strong>Part C</strong></td>
-<td><code>Hard</code></td>
-<td>Demonstration</td>
-<td>0</td>
-<td>3</td>
-<td><strong>3</strong></td>
-</tr>
-</tbody>
-</table>
-
-> [!NOTE]
-> **Total Viva Points**: 10 (3 + 4 + 3)
 
 ---
 
