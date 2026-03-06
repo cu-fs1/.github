@@ -541,6 +541,7 @@ Download and install <a href="https://www.postman.com/downloads/">Postman</a> to
 | --------------- | --------------------------------------------------------------------------- |
 | 🤝 **Promises** | <a href="https://github.com/cu-fs1/promises">github.com/cu-fs1/promises</a> |
 | 🏗️ **MVC**      | <a href="https://github.com/cu-fs1/mvc">github.com/cu-fs1/mvc</a>           |
+| 🧠 **Redis Basics** | <a href="https://github.com/cu-fs1/redis-basics">github.com/cu-fs1/redis-basics</a> |
 
 ---
 
@@ -589,6 +590,12 @@ Follow the [Experiment 4 guide](#experiment-4) for initial setup, then follow th
 
 > **Vercel Deployment Tip:**
 > After setting up your project, head to your Vercel dashboard and open the project settings. Add all necessary environment variables (like your MongoDB connection string, API keys, etc.) under the **Environment Variables** section so they are available during build and runtime.
+
+### 📚 Resources
+
+| Topic                 | Repository                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------------- |
+| 🍃 **MongoDB Basics** | <a href="https://github.com/cu-fs1/mongodb-basics">github.com/cu-fs1/mongodb-basics</a> |
 ---
 
 <a name="experiment-6"></a>
@@ -599,6 +606,12 @@ Follow the [Experiment 4 guide](#experiment-4) for initial setup, then follow th
 > **Deadline:** 18 March 2026
 
 Follow the [Experiment 4 guide](#experiment-4) for setup and instructions.
+
+### 📚 Resources
+
+| Topic       | Repository                                                            |
+| ----------- | --------------------------------------------------------------------- |
+| 🔐 **JWT**  | <a href="https://github.com/cu-fs1/jwt">github.com/cu-fs1/jwt</a> |
 
 ---
 
