@@ -138,7 +138,7 @@ You can track your submission status using the spreadsheet below:
 Access the Postman collection for testing the API endpoints:
 
 <div align="center">
-  <a href="https://shorturl.at/3cPlf">
+  <a href="https://postman.com/dheereshag/cu">
     <img src="https://img.shields.io/badge/View%20Postman%20Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="View Postman Collection" />
   </a>
 </div>
