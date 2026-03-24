@@ -27,6 +27,7 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
   - [🔌 Experiment 4](#experiment-4)
   - [📂 Experiment 5](#experiment-5)
   - [🗄️ Experiment 6](#experiment-6)
+  - [🧩 Experiment 7](#experiment-7)
 
 ---
 
@@ -612,6 +613,15 @@ Follow the [Experiment 4 guide](#experiment-4) for setup and instructions.
 | Topic       | Repository                                                            |
 | ----------- | --------------------------------------------------------------------- |
 | 🔐 **JWT**  | <a href="https://github.com/cu-fs1/jwt">github.com/cu-fs1/jwt</a> |
+
+---
+
+<a name="experiment-7"></a>
+
+## 🧩 Experiment 7
+
+> [!IMPORTANT]
+> **Deadline:** 6 April 2026
 
 ---
 
