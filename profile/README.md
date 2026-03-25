@@ -623,6 +623,8 @@ Follow the [Experiment 4 guide](#experiment-4) for setup and instructions.
 > [!IMPORTANT]
 > **Deadline:** 6 April 2026
 
+Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
+
 ---
 
 <div align="center">
