@@ -14,6 +14,7 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 - [💬 WhatsApp Groups](#whatsapp-groups)
 - [📖 Course Materials](#course-materials)
 - [📅 Attendance](#attendance)
+- [🏆 Capstone Project Groups](#capstone-project-groups)
 - [📤 Submission](#submission)
   - [📝 Google Form](#google-form)
   - [📊 Submission Spreadsheet](#submission-spreadsheet)
@@ -85,6 +86,18 @@ Track your attendance and participation using the spreadsheet below:
 
 > [!NOTE]
 > Anyone who was left, please tell me your name by contacting me directly.
+
+---
+
+<a name="capstone-project-groups"></a>
+
+## 🏆 Capstone Project Groups
+
+<div align="center">
+  <a href="https://docs.google.com/spreadsheets/d/1Z0Ox1o08W6AfwcWgcxWV5_1EY8pD59ohxUuvcw4hZ60/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/View%20Capstone%20Groups-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="View Capstone Project Groups" />
+  </a>
+</div>
 
 ---
 
