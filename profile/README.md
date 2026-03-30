@@ -499,6 +499,12 @@ pnpm create next-app@latest .
 
 Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
 
+### 📚 Resources
+
+| Topic      | Repository                                                          |
+| ---------- | ------------------------------------------------------------------- |
+| 🏢 **OOPS** | <a href="https://github.com/cu-fs1/oops">github.com/cu-fs1/oops</a> |
+
 ---
 
 <a name="experiment-4"></a>
@@ -639,6 +645,12 @@ Follow the [Experiment 4 guide](#experiment-4) for setup and instructions.
 > **Deadline:** 6 April 2026
 
 Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
+
+### 📚 Resources
+
+| Topic        | Repository                                                              |
+| ------------ | ----------------------------------------------------------------------- |
+| 🛰️ **Axios** | <a href="https://github.com/cu-fs1/axios">github.com/cu-fs1/axios</a> |
 
 ---
 
