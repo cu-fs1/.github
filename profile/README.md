@@ -651,6 +651,7 @@ Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
 | Topic        | Repository                                                              |
 | ------------ | ----------------------------------------------------------------------- |
 | 🛰️ **Axios** | <a href="https://github.com/cu-fs1/axios">github.com/cu-fs1/axios</a> |
+| 🐻 **Zustand** | <a href="https://github.com/cu-fs1/zustand">github.com/cu-fs1/zustand</a> |
 
 ---
 
