@@ -562,7 +562,7 @@ Download and install <a href="https://www.postman.com/downloads/">Postman</a> to
 | --------------- | --------------------------------------------------------------------------- |
 | 🤝 **Promises** | <a href="https://github.com/cu-fs1/promises">github.com/cu-fs1/promises</a> |
 | 🏗️ **MVC**      | <a href="https://github.com/cu-fs1/mvc">github.com/cu-fs1/mvc</a>           |
-| 🧠 **Redis** | <a href="https://github.com/cu-fs1/redis">github.com/cu-fs1/redis</a> |
+| ⚡ **Redis** | <a href="https://github.com/cu-fs1/redis">github.com/cu-fs1/redis</a> |
 
 ---
 
