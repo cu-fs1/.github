@@ -652,6 +652,7 @@ Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
 | ------------ | ----------------------------------------------------------------------- |
 | 🛰️ **Axios** | <a href="https://github.com/cu-fs1/axios">github.com/cu-fs1/axios</a> |
 | 🐻 **Zustand** | <a href="https://github.com/cu-fs1/zustand">github.com/cu-fs1/zustand</a> |
+| 🔌 **WebSockets** | <a href="https://github.com/cu-fs1/websockets">github.com/cu-fs1/websockets</a> |
 
 ---
 
@@ -664,7 +665,15 @@ Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
 
 Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
 
+### 📚 Resources
+
+| Topic                   | Repository                                                                                    |
+| ----------------------- | --------------------------------------------------------------------------------------------- |
+| 🛡️ **Zod**               | <a href="https://github.com/cu-fs1/zod">github.com/cu-fs1/zod</a>                             |
+| 📝 **React Hook Form**   | <a href="https://github.com/cu-fs1/react-hook-form">github.com/cu-fs1/react-hook-form</a>     |
+
 ---
+
 
 <div align="center">
 
