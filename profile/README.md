@@ -29,6 +29,7 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
   - [📂 Experiment 5](#experiment-5)
   - [🗄️ Experiment 6](#experiment-6)
   - [🧩 Experiment 7](#experiment-7)
+  - [🧮 Experiment 8](#experiment-8)
 
 ---
 
@@ -353,7 +354,7 @@ Explore these repositories for reference materials:
 | 🔲 **Flexbox**           | <a href="https://github.com/cu-fs1/flexbox">github.com/cu-fs1/flexbox</a>                     |
 | 📍 **Positioning**       | <a href="https://github.com/cu-fs1/positioning">github.com/cu-fs1/positioning</a>             |
 | 🎯 **Grid**              | <a href="https://github.com/cu-fs1/grid">github.com/cu-fs1/grid</a>                           |
-| 🟨 **JavaScript Basics** | <a href="https://github.com/cu-fs1/javascript-basics">github.com/cu-fs1/javascript-basics</a> |
+| 🟨 **JavaScript** | <a href="https://github.com/cu-fs1/javascript">github.com/cu-fs1/javascript</a> |
 
 ---
 
@@ -484,7 +485,7 @@ pnpm create next-app@latest .
 
 | Topic               | Repository                                                                          |
 | ------------------- | ----------------------------------------------------------------------------------- |
-| ⚛️ **React Basics** | <a href="https://github.com/cu-fs1/react-basics">github.com/cu-fs1/react-basics</a> |
+| ⚛️ **React** | <a href="https://github.com/cu-fs1/react">github.com/cu-fs1/react</a> |
 | 🔢 **Counter**      | <a href="https://github.com/cu-fs1/counter">github.com/cu-fs1/counter</a>           |
 
 ---
@@ -555,7 +556,7 @@ Download and install <a href="https://www.postman.com/downloads/">Postman</a> to
 | --------------- | --------------------------------------------------------------------------- |
 | 🤝 **Promises** | <a href="https://github.com/cu-fs1/promises">github.com/cu-fs1/promises</a> |
 | 🏗️ **MVC**      | <a href="https://github.com/cu-fs1/mvc">github.com/cu-fs1/mvc</a>           |
-| 🧠 **Redis Basics** | <a href="https://github.com/cu-fs1/redis-basics">github.com/cu-fs1/redis-basics</a> |
+| 🧠 **Redis** | <a href="https://github.com/cu-fs1/redis">github.com/cu-fs1/redis</a> |
 
 ---
 
@@ -609,7 +610,7 @@ Follow the [Experiment 4 guide](#experiment-4) for initial setup, then follow th
 
 | Topic                 | Repository                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------------- |
-| 🍃 **MongoDB Basics** | <a href="https://github.com/cu-fs1/mongodb-basics">github.com/cu-fs1/mongodb-basics</a> |
+| 🍃 **MongoDB** | <a href="https://github.com/cu-fs1/mongodb">github.com/cu-fs1/mongodb</a> |
 ---
 
 <a name="experiment-6"></a>
@@ -629,12 +630,24 @@ Follow the [Experiment 4 guide](#experiment-4) for setup and instructions.
 
 ---
 
+
 <a name="experiment-7"></a>
 
 ## 🧩 Experiment 7
 
 > [!IMPORTANT]
 > **Deadline:** 6 April 2026
+
+Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
+
+---
+
+<a name="experiment-8"></a>
+
+## 🧮 Experiment 8
+
+> [!IMPORTANT]
+> **Deadline:** 17 April 2026
 
 Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
 
