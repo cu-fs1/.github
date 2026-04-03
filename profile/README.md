@@ -30,6 +30,8 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
   - [🗄️ Experiment 6](#experiment-6)
   - [🧩 Experiment 7](#experiment-7)
   - [🧮 Experiment 8](#experiment-8)
+  - [🚀 Experiment 9](#experiment-9)
+  - [🎯 Experiment 10](#experiment-10)
 
 ---
 
@@ -571,7 +573,7 @@ Download and install <a href="https://www.postman.com/downloads/">Postman</a> to
 ## 📂 Experiment 5
 
 > [!IMPORTANT]
-> **Deadline:** 9 March 2026
+> **Deadline:** 21 April 2026
 
 Follow the [Experiment 4 guide](#experiment-4) for initial setup, then follow the MongoDB setup below:
 
@@ -671,6 +673,40 @@ Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
 | ----------------------- | --------------------------------------------------------------------------------------------- |
 | 🛡️ **Zod**               | <a href="https://github.com/cu-fs1/zod">github.com/cu-fs1/zod</a>                             |
 | 📝 **React Hook Form**   | <a href="https://github.com/cu-fs1/react-hook-form">github.com/cu-fs1/react-hook-form</a>     |
+
+---
+
+<a name="experiment-9"></a>
+
+## 🚀 Experiment 9
+
+> [!IMPORTANT]
+> **Deadline:** 23 April 2026
+
+Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
+
+### 📚 Resources
+
+| Topic | Repository |
+| ----- | ---------- |
+| *To be announced* | — |
+
+---
+
+<a name="experiment-10"></a>
+
+## 🎯 Experiment 10
+
+> [!IMPORTANT]
+> **Deadline:** 23 April 2026
+
+Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
+
+### 📚 Resources
+
+| Topic | Repository |
+| ----- | ---------- |
+| *To be announced* | — |
 
 ---
 
