@@ -781,7 +781,7 @@ Follow the [Experiment 2 guide](#experiment-2) for setup and instructions.
 
 | Topic | Repository |
 | ----- | ---------- |
-| *To be announced* | — |
+| 🐳 **Docker** | <a href="https://github.com/cu-fs1/docker">github.com/cu-fs1/docker</a> |
 
 ---
 
