@@ -10,6 +10,7 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 ## 📑 Table of Contents
 
+- [🗺️ Capstone Project Guide](#capstone-project-guide)
 - [📞 Contact Information](#contact-information)
 - [💬 WhatsApp Groups](#whatsapp-groups)
 - [📖 Course Materials](#course-materials)
@@ -32,6 +33,97 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
   - [🧮 Experiment 8](#experiment-8)
   - [🚀 Experiment 9](#experiment-9)
   - [🎯 Experiment 10](#experiment-10)
+
+---
+
+<a name="capstone-project-guide"></a>
+
+## 🗺️ Capstone Project Guide
+
+Recommended tech stack for building your capstone project. You are not restricted to these choices, but following this stack ensures compatibility and support.
+
+### 🎨 Frontend
+
+| Framework | Language | UI Components | Forms | State | HTTP Client | Package Manager | Notes |
+| :-------- | :------- | :------------ | :---- | :---- | :---------- | :-------------- | :---- |
+| [Next.js](https://nextjs.org/) | TypeScript | [shadcn/ui](https://ui.shadcn.com/) | [Zod](https://zod.dev/) + [React Hook Form](https://react-hook-form.com/) | [Zustand](https://zustand-demo.pmnd.rs/) | [Axios](https://axios-http.com/) | [pnpm](https://pnpm.io/) | App Router recommended |
+
+---
+
+### 🔧 Backend
+
+| Framework | Language | ORM | Migrations | Databases | Package Manager | Logging | Notes |
+| :-------- | :------- | :-- | :--------- | :-------- | :-------------- | :------ | :---- |
+| [Next.js API Routes](https://nextjs.org/docs/app/building-your-application/routing/route-handlers) | TypeScript | [Prisma](https://www.prisma.io/) (PostgreSQL) / [Mongoose](https://mongoosejs.com/) (MongoDB) | Prisma Migrate (built-in) / none | PostgreSQL ([Neon](https://neon.tech/) / [Supabase](https://supabase.com/)), MongoDB, Redis | [pnpm](https://pnpm.io/) | [Winston](https://github.com/winstonjs/winston) | Full-stack in one project |
+| [Node.js + Express](https://expressjs.com/) | TypeScript | [Prisma](https://www.prisma.io/) (PostgreSQL) / [Mongoose](https://mongoosejs.com/) (MongoDB) | Prisma Migrate (built-in) / none | PostgreSQL ([Neon](https://neon.tech/) / [Supabase](https://supabase.com/)), MongoDB, Redis | [pnpm](https://pnpm.io/) | [Winston](https://github.com/winstonjs/winston) | Standalone REST API |
+| [Django](https://www.djangoproject.com/) | Python | Django ORM (built-in) | `manage.py migrate` (built-in) | PostgreSQL ([Neon](https://neon.tech/) / [Supabase](https://supabase.com/)), Redis — ⚠️ no MongoDB | [uv](https://docs.astral.sh/uv/) ⚠️ not pip / poetry | [Loguru](https://github.com/Delgan/loguru) / [Structlog](https://www.structlog.org/) | Batteries included |
+| [FastAPI](https://fastapi.tiangolo.com/) | Python | [SQLAlchemy](https://www.sqlalchemy.org/) | [Alembic](https://alembic.sqlalchemy.org/) | PostgreSQL ([Neon](https://neon.tech/) / [Supabase](https://supabase.com/)), MongoDB, Redis | [uv](https://docs.astral.sh/uv/) ⚠️ not pip / poetry | [Loguru](https://github.com/Delgan/loguru) / [Structlog](https://www.structlog.org/) | Async, modern, fast |
+
+---
+
+### 🗄️ Database
+
+| Category | Technology | Notes |
+| :------- | :--------- | :---- |
+| **PostgreSQL (Cloud)** | [Neon DB](https://neon.tech/) / [Supabase Postgres](https://supabase.com/) | Serverless Postgres |
+| **NoSQL** | [MongoDB](https://www.mongodb.com/) | Document database |
+| **Caching** | [Redis](https://redis.io/) | In-memory cache |
+
+---
+
+### 🧩 Frontend Components
+
+| Category | Technology | Notes |
+| :------- | :--------- | :---- |
+| **UI Components** | [shadcn/ui](https://ui.shadcn.com/) | Use shadcn components only |
+
+---
+
+### 🔐 Authentication
+
+| Library | Use With | Notes |
+| :------ | :------- | :---- |
+| [Better Auth](https://www.better-auth.com/) | Next.js, Node.js + Express | Preferred for JS/TS backends; handles sessions, OAuth, and more |
+| [Simple JWT](https://django-rest-framework-simplejwt.readthedocs.io/) | Django | JWT auth for Django REST Framework |
+
+> [!NOTE]
+> Login / signup UI — use **shadcn/ui** components only.
+
+---
+
+### 📝 Forms
+
+| Category | Technology | Notes |
+| :------- | :--------- | :---- |
+| **Validation** | [Zod](https://zod.dev/) | Schema-first validation |
+| **Form Handler** | [React Hook Form](https://react-hook-form.com/) | Performant, minimal re-renders |
+| **UI Components** | [shadcn/ui](https://ui.shadcn.com/) | Form field components |
+
+---
+
+### 🐻 State Management
+
+| Category | Technology | Notes |
+| :------- | :--------- | :---- |
+| **Global State** | [Zustand](https://zustand-demo.pmnd.rs/) | Lightweight, built-in localStorage support — use instead of Redux Toolkit |
+
+---
+
+### 🔌 API Management
+
+| Category | Technology | Notes |
+| :------- | :--------- | :---- |
+| **HTTP Client** | [Axios](https://axios-http.com/) | Use Axios only — not native `fetch` |
+| **API Testing** | [Postman](https://www.postman.com/) | Test and document endpoints |
+| **API Docs** | [Swagger / OpenAPI](https://swagger.io/) | Integrate if possible |
+
+---
+
+### ☁️ Hosting
+
+| Platform | Supports | Notes |
+| :------- | :------- | :---- |
+| [Vercel](https://vercel.com/) | Next.js, Node.js, FastAPI, Django | Recommended deployment platform |
 
 ---
 
