@@ -196,6 +196,20 @@ Track your attendance and participation using the spreadsheet below:
 
 ---
 
+<a name="capstone-submission"></a>
+
+## 📤 Capstone Project Submission
+
+Submit your capstone project details using the form below:
+
+<div align="center">
+  <a href="https://forms.gle/pi3KeTbp8VTGNp4L9">
+    <img src="https://img.shields.io/badge/Submit%20Capstone%20Project-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Submit Capstone Project" />
+  </a>
+</div>
+
+---
+
 <a name="submission"></a>
 
 ## 📤 Submission
