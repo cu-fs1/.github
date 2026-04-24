@@ -10,17 +10,19 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 ## 📑 Table of Contents
 
-- [🗺️ Capstone Project Guide](#capstone-project-guide)
+- [🗺️ Capstone Project](#capstone-project)
+  - [📖 Guide](#capstone-guide)
+  - [🏆 Groups](#capstone-groups)
+  - [📤 Submission](#capstone-submission)
 - [📞 Contact Information](#contact-information)
 - [💬 WhatsApp Groups](#whatsapp-groups)
 - [📖 Course Materials](#course-materials)
 - [📅 Attendance](#attendance)
-- [🏆 Capstone Project Groups](#capstone-project-groups)
+- [📮 Postman Collection](#postman-collection)
 - [📤 Submission](#submission)
   - [📝 Google Form](#google-form)
   - [📊 Submission Spreadsheet](#submission-spreadsheet)
   - [🎥 Demo Video](#demo-video)
-  - [📮 Postman Collection](#postman-collection)
   - [📋 Requirements](#requirements)
 - [🧪 Experiment Guides](#experiment-guides)
   - [🎨 Experiment 1](#experiment-1)
@@ -36,13 +38,17 @@ _A comprehensive guide for Full Stack Development course experiments, assignment
 
 ---
 
-<a name="capstone-project-guide"></a>
+<a name="capstone-project"></a>
 
-## 🗺️ Capstone Project Guide
+## 🗺️ Capstone Project
+
+<a name="capstone-guide"></a>
+
+### 📖 Guide
 
 Recommended tech stack for building your capstone project. You are not restricted to these choices, but following this stack ensures compatibility and support.
 
-### 🎨 Frontend
+#### 🎨 Frontend
 
 | Framework | Language | UI Components | Forms | State | HTTP Client | Package Manager | Notes |
 | :-------- | :------- | :------------ | :---- | :---- | :---------- | :-------------- | :---- |
@@ -50,7 +56,7 @@ Recommended tech stack for building your capstone project. You are not restricte
 
 ---
 
-### 🔧 Backend
+#### 🔧 Backend
 
 | Framework | Language | ORM | Migrations | Databases | Package Manager | Logging | Notes |
 | :-------- | :------- | :-- | :--------- | :-------- | :-------------- | :------ | :---- |
@@ -61,7 +67,7 @@ Recommended tech stack for building your capstone project. You are not restricte
 
 ---
 
-### 🗄️ Database
+#### 🗄️ Database
 
 | Category | Technology | Notes |
 | :------- | :--------- | :---- |
@@ -71,7 +77,7 @@ Recommended tech stack for building your capstone project. You are not restricte
 
 ---
 
-### 🧩 Frontend Components
+#### 🧩 Frontend Components
 
 | Category | Technology | Notes |
 | :------- | :--------- | :---- |
@@ -79,7 +85,7 @@ Recommended tech stack for building your capstone project. You are not restricte
 
 ---
 
-### 🔐 Authentication
+#### 🔐 Authentication
 
 | Library | Use With | Notes |
 | :------ | :------- | :---- |
@@ -91,7 +97,7 @@ Recommended tech stack for building your capstone project. You are not restricte
 
 ---
 
-### 📝 Forms
+#### 📝 Forms
 
 | Category | Technology | Notes |
 | :------- | :--------- | :---- |
@@ -101,7 +107,7 @@ Recommended tech stack for building your capstone project. You are not restricte
 
 ---
 
-### 🐻 State Management
+#### 🐻 State Management
 
 | Category | Technology | Notes |
 | :------- | :--------- | :---- |
@@ -109,7 +115,7 @@ Recommended tech stack for building your capstone project. You are not restricte
 
 ---
 
-### 🔌 API Management
+#### 🔌 API Management
 
 | Category | Technology | Notes |
 | :------- | :--------- | :---- |
@@ -119,7 +125,7 @@ Recommended tech stack for building your capstone project. You are not restricte
 
 ---
 
-### ☁️ Hosting
+#### ☁️ Hosting
 
 | Platform | Supports | Notes |
 | :------- | :------- | :---- |
@@ -184,9 +190,9 @@ Track your attendance and participation using the spreadsheet below:
 
 ---
 
-<a name="capstone-project-groups"></a>
+<a name="capstone-groups"></a>
 
-## 🏆 Capstone Project Groups
+### 🏆 Groups
 
 <div align="center">
   <a href="https://docs.google.com/spreadsheets/d/1Z0Ox1o08W6AfwcWgcxWV5_1EY8pD59ohxUuvcw4hZ60/edit?usp=sharing">
@@ -198,7 +204,7 @@ Track your attendance and participation using the spreadsheet below:
 
 <a name="capstone-submission"></a>
 
-## 📤 Capstone Project Submission
+### 📤 Submission
 
 Submit your capstone project details using the form below:
 
